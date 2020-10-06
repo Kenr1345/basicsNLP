@@ -1,0 +1,2724 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "New York",
+  "last_updated": "2020-10-05T20:38:04-04:00",
+  "num_results": 33,
+  "results": [
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Eric Trump Finally Interviewed in N.Y. Fraud Inquiry",
+      "abstract": "President Trump\u2019s son had sought to postpone a deposition with the New York attorney general\u2019s office until after Election Day.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/eric-trump-investigation-election.html",
+      "uri": "nyt://article/360ef03d-0b99-575d-be4b-1c75f362aaf5",
+      "byline": "By Ed Shanahan and William K. Rashbaum",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:43:32-04:00",
+      "created_date": "2020-10-05T18:22:34-04:00",
+      "published_date": "2020-10-05T18:22:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Taxes (US)",
+        "Trump Tax Returns",
+        "Presidential Election of 2020",
+        "Attorneys General",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Carroll, E Jean",
+        "Cohen, Michael D (1966- )",
+        "Engoron, Arthur F",
+        "James, Letitia",
+        "Trump, Donald J",
+        "Trump, Eric F (1984- )"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05erictrump/05erictrump-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Trump has described the inquiry by New York\u2019s attorney general as\u00a0\u201can attempt to interfere with the upcoming election.\u201d",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05erictrump/05erictrump-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Trump has described the inquiry by New York\u2019s attorney general as\u00a0\u201can attempt to interfere with the upcoming election.\u201d",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05erictrump/05erictrump-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Trump has described the inquiry by New York\u2019s attorney general as\u00a0\u201can attempt to interfere with the upcoming election.\u201d",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05erictrump/05erictrump-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Trump has described the inquiry by New York\u2019s attorney general as\u00a0\u201can attempt to interfere with the upcoming election.\u201d",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05erictrump/05erictrump-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Trump has described the inquiry by New York\u2019s attorney general as\u00a0\u201can attempt to interfere with the upcoming election.\u201d",
+          "copyright": "Julio Cortez/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nmAdlq"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Cuomo Rejects N.Y.C.\u2019s Shutdown Plan for Virus Spike, but May Offer Own",
+      "abstract": "The abrupt announcement caused confusion over the official response to the virus surge in some areas and threatened to deepen tensions with the mayor.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/cuomo-shutdown-coronavirus.html",
+      "uri": "nyt://article/64d43441-0290-5081-8c2f-1b8b4480b0a4",
+      "byline": "By Jesse McKinley and Luis Ferr\u00e9-Sadurn\u00ed",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:19:25-04:00",
+      "created_date": "2020-10-05T13:52:13-04:00",
+      "published_date": "2020-10-05T13:52:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Shutdowns (Institutional)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cuomo, Andrew M"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nyvirus-cuomo/05nyvirus-cuomo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Andrew Cuomo said on Monday that nonessential businesses in viral hotspots like Kew Gardens, Queens, were likely to remain open.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nyvirus-cuomo/05nyvirus-cuomo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Andrew Cuomo said on Monday that nonessential businesses in viral hotspots like Kew Gardens, Queens, were likely to remain open.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nyvirus-cuomo/05nyvirus-cuomo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Andrew Cuomo said on Monday that nonessential businesses in viral hotspots like Kew Gardens, Queens, were likely to remain open.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nyvirus-cuomo/05nyvirus-cuomo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Andrew Cuomo said on Monday that nonessential businesses in viral hotspots like Kew Gardens, Queens, were likely to remain open.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nyvirus-cuomo/05nyvirus-cuomo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Andrew Cuomo said on Monday that nonessential businesses in viral hotspots like Kew Gardens, Queens, were likely to remain open.",
+          "copyright": "Stephanie Keith for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jzTlKm"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "N.Y. City Council Votes to Expel One of Its Own for 1st Time in Memory",
+      "abstract": "Andy King, a Bronx Democrat, was voted out after facing three ethics inquiries.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/andy-king-city-council.html",
+      "uri": "nyt://article/62f9e097-6489-5850-b990-741d8fd742be",
+      "byline": "By Emma G. Fitzsimmons",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T18:30:29-04:00",
+      "created_date": "2020-10-05T12:45:59-04:00",
+      "published_date": "2020-10-05T12:45:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Ethics and Official Misconduct",
+        "Sexual Harassment",
+        "City Councils"
+      ],
+      "org_facet": [
+        "City Council (NYC)"
+      ],
+      "per_facet": [
+        "King, Andy Jr"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05andyking1/05andyking1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The City Council\u2019s ethics committee last week had substantiated allegations made against Councilman Andy King, and had recommended his expulsion.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05andyking1/05andyking1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The City Council\u2019s ethics committee last week had substantiated allegations made against Councilman Andy King, and had recommended his expulsion.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05andyking1/05andyking1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The City Council\u2019s ethics committee last week had substantiated allegations made against Councilman Andy King, and had recommended his expulsion.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05andyking1/05andyking1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The City Council\u2019s ethics committee last week had substantiated allegations made against Councilman Andy King, and had recommended his expulsion.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05andyking1/05andyking1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The City Council\u2019s ethics committee last week had substantiated allegations made against Councilman Andy King, and had recommended his expulsion.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Sr9GW5"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "WeChat, Wild Rumors and All, Is Their Lifeline. Washington May End That.",
+      "abstract": "The app has reshaped the experience of Chinese-Americans for the better, but also spreads misinformation and government propaganda.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html",
+      "uri": "nyt://article/c4513a77-3099-5251-a775-03b77462e374",
+      "byline": "By Nicole Hong",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T13:56:08-04:00",
+      "created_date": "2020-10-05T03:00:13-04:00",
+      "published_date": "2020-10-05T03:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Chinese-Americans",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Propaganda",
+        "Rumors and Misinformation",
+        "Data-Mining and Database Marketing",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Tencent Holdings Ltd",
+        "WeChat (Mobile App)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "New York City",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00ny-wechat1/00ny-wechat1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A WeChat post falsely claimed that the popular Taipan Bakery, which has locations in Manhattan and Queens, was set to close in August. The rush of customers overwhelmed the bakery\u2019s cooks.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00ny-wechat1/00ny-wechat1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A WeChat post falsely claimed that the popular Taipan Bakery, which has locations in Manhattan and Queens, was set to close in August. The rush of customers overwhelmed the bakery\u2019s cooks.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00ny-wechat1/00ny-wechat1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A WeChat post falsely claimed that the popular Taipan Bakery, which has locations in Manhattan and Queens, was set to close in August. The rush of customers overwhelmed the bakery\u2019s cooks.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00ny-wechat1/00ny-wechat1-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A WeChat post falsely claimed that the popular Taipan Bakery, which has locations in Manhattan and Queens, was set to close in August. The rush of customers overwhelmed the bakery\u2019s cooks.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00ny-wechat1/00ny-wechat1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A WeChat post falsely claimed that the popular Taipan Bakery, which has locations in Manhattan and Queens, was set to close in August. The rush of customers overwhelmed the bakery\u2019s cooks.",
+          "copyright": "Dave Sanders for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HRWBTr"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "2 Former Bridgeport City Officials Plead Guilty to Rigging Hiring Process",
+      "abstract": "Armando J. Perez, a former police chief of Bridgeport, Conn., and David Dunn, a former acting personnel director, admitted to fixing the hiring process to ensure that Mr. Perez got the job.",
+      "url": "https://www.nytimes.com/2020/10/05/us/bridgeport-police-guilty-plea.html",
+      "uri": "nyt://article/4b1b1e42-fc2f-5c0b-99a4-809d8ecc1d96",
+      "byline": "By Concepci\u00f3n de Le\u00f3n",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:35:02-04:00",
+      "created_date": "2020-10-05T20:35:02-04:00",
+      "published_date": "2020-10-05T20:35:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police",
+        "Appointments and Executive Changes",
+        "Frauds and Swindling"
+      ],
+      "org_facet": [
+        "Police Department (Bridgeport, Conn)"
+      ],
+      "per_facet": [
+        "Dunn, David (1948- )",
+        "Perez, Armando J (1955- )"
+      ],
+      "geo_facet": [
+        "Bridgeport (Conn)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05xp-bridgeport-scandal-image/05xp-bridgeport-scandal-image-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1233,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armando J. Perez, the former Bridgeport police chief, leaving federal court in Bridgeport on Monday after pleading guilty.",
+          "copyright": "Brad Horrigan/Hartford Courant, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05xp-bridgeport-scandal-image/05xp-bridgeport-scandal-image-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armando J. Perez, the former Bridgeport police chief, leaving federal court in Bridgeport on Monday after pleading guilty.",
+          "copyright": "Brad Horrigan/Hartford Courant, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05xp-bridgeport-scandal-image/05xp-bridgeport-scandal-image-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armando J. Perez, the former Bridgeport police chief, leaving federal court in Bridgeport on Monday after pleading guilty.",
+          "copyright": "Brad Horrigan/Hartford Courant, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05xp-bridgeport-scandal-image/05xp-bridgeport-scandal-image-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armando J. Perez, the former Bridgeport police chief, leaving federal court in Bridgeport on Monday after pleading guilty.",
+          "copyright": "Brad Horrigan/Hartford Courant, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05xp-bridgeport-scandal-image/05xp-bridgeport-scandal-image-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Armando J. Perez, the former Bridgeport police chief, leaving federal court in Bridgeport on Monday after pleading guilty.",
+          "copyright": "Brad Horrigan/Hartford Courant, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2F2TLtN"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Should N.J. Legalize Marijuana? The Voters Will Decide",
+      "abstract": "A question on November\u2019s ballot asks residents if they support changing the state Constitution to allow recreational use of the drug.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/nj-marijuana-ballot-question.html",
+      "uri": "nyt://article/67d3062f-5d9c-5ccc-9574-42e7a5e4b80e",
+      "byline": "By Tracey Tully",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T08:32:45-04:00",
+      "created_date": "2020-10-05T05:00:26-04:00",
+      "published_date": "2020-10-05T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "George Floyd Protests (2020)",
+        "Marijuana",
+        "Black People",
+        "Black Lives Matter Movement",
+        "Medical Marijuana",
+        "Referendums",
+        "Voting and Voters",
+        "Constitutional Amendments"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00njmarijuana/00njmarijuana-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s going to be a quantum leap in consumption and it takes time to prepare, to be ready for that,\u201d said Joe Bayern, president of Curaleaf, the world\u2019s largest cannabis company.",
+          "copyright": "Hannah Yoon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00njmarijuana/00njmarijuana-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s going to be a quantum leap in consumption and it takes time to prepare, to be ready for that,\u201d said Joe Bayern, president of Curaleaf, the world\u2019s largest cannabis company.",
+          "copyright": "Hannah Yoon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00njmarijuana/00njmarijuana-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s going to be a quantum leap in consumption and it takes time to prepare, to be ready for that,\u201d said Joe Bayern, president of Curaleaf, the world\u2019s largest cannabis company.",
+          "copyright": "Hannah Yoon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00njmarijuana/00njmarijuana-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s going to be a quantum leap in consumption and it takes time to prepare, to be ready for that,\u201d said Joe Bayern, president of Curaleaf, the world\u2019s largest cannabis company.",
+          "copyright": "Hannah Yoon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/nyregion/00njmarijuana/00njmarijuana-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s going to be a quantum leap in consumption and it takes time to prepare, to be ready for that,\u201d said Joe Bayern, president of Curaleaf, the world\u2019s largest cannabis company.",
+          "copyright": "Hannah Yoon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33v9rPQ"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "When Covid Flared Again in Orthodox Jewish New York",
+      "abstract": "The city needs to do a better job at getting information to an insular community that already believes it has herd immunity.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/orthodox-jewish-nyc-coronavirus.html",
+      "uri": "nyt://article/bd3c3b53-61d4-55c6-92a6-ab79590af48d",
+      "byline": "By Ginia Bellafante",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T18:30:24-04:00",
+      "created_date": "2020-10-05T12:54:24-04:00",
+      "published_date": "2020-10-05T12:54:24-04:00",
+      "material_type_facet": "",
+      "kicker": "Big City",
+      "des_facet": [
+        "Shutdowns (Institutional)",
+        "Jews and Judaism",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [
+        "Health Department (NYS)"
+      ],
+      "per_facet": [
+        "Zucker, Howard A"
+      ],
+      "geo_facet": [
+        "Borough Park (Brooklyn, NY)",
+        "Brooklyn (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/nyregion/04big01/03big01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Borough Park, Brooklyn, is one of many neighborhoods in New York City with sizable Orthodox Jewish populations that have seen an uptick in positive coronavirus tests.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/nyregion/04big01/03big01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Borough Park, Brooklyn, is one of many neighborhoods in New York City with sizable Orthodox Jewish populations that have seen an uptick in positive coronavirus tests.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/nyregion/04big01/03big01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Borough Park, Brooklyn, is one of many neighborhoods in New York City with sizable Orthodox Jewish populations that have seen an uptick in positive coronavirus tests.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/nyregion/04big01/04big01-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Borough Park, Brooklyn, is one of many neighborhoods in New York City with sizable Orthodox Jewish populations that have seen an uptick in positive coronavirus tests.",
+          "copyright": "Dave Sanders for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/nyregion/04big01/03big01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Borough Park, Brooklyn, is one of many neighborhoods in New York City with sizable Orthodox Jewish populations that have seen an uptick in positive coronavirus tests.",
+          "copyright": "Dave Sanders for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30vIVnN"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "N.Y.P.D. Warns Officers: Wear Your Masks",
+      "abstract": "As coronavirus cases rise in some neighborhoods, police officials warn officers that they could be disciplined if they fail to comply.",
+      "url": "https://www.nytimes.com/2020/10/04/nyregion/nypd-masks-mandatory-virus.html",
+      "uri": "nyt://article/24dd7509-0744-5de7-b3a6-b203c9169734",
+      "byline": "By Ashley Southall and Michael Gold",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T15:42:06-04:00",
+      "created_date": "2020-10-04T18:38:20-04:00",
+      "published_date": "2020-10-04T18:38:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Protective Clothing and Gear"
+      ],
+      "org_facet": [
+        "Police Department (NYC)",
+        "Civilian Complaint Review Board"
+      ],
+      "per_facet": [
+        "Monahan, Terence A"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nypdmasks/merlin_175291071_fdff38d0-d661-473d-85f4-432fd9bfa340-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief of department warned officers that they all should be wearing masks.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nypdmasks/04nypdmasks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief of department warned officers that they all should be wearing masks.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nypdmasks/04nypdmasks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief of department warned officers that they all should be wearing masks.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nypdmasks/04nypdmasks-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief of department warned officers that they all should be wearing masks.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nypdmasks/merlin_175291071_fdff38d0-d661-473d-85f4-432fd9bfa340-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chief of department warned officers that they all should be wearing masks.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34pCIL3"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "A New Battle Against the Virus Is Set for 9 ZIP Codes",
+      "abstract": "Mayor Bill de Blasio has proposed \"rewinding\" the reopening of businesses and schools in areas where the  infection rate has spiked.",
+      "url": "https://www.nytimes.com/2020/10/05/nyregion/coronavirus-zip-codes-nyc.html",
+      "uri": "nyt://article/e1968c6d-3584-5c83-93a8-1191ee6caa19",
+      "byline": "By Daniel E. Slotnik",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T19:53:28-04:00",
+      "created_date": "2020-10-05T05:20:32-04:00",
+      "published_date": "2020-10-05T05:20:32-04:00",
+      "material_type_facet": "",
+      "kicker": "New York Today",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Breakfast at Tiffany's (Movie)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Tiffany & Company"
+      ],
+      "per_facet": [
+        "Hepburn, Audrey"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Brooklyn (NYC)",
+        "Queens (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nytoday-swap/merlin_178048248_d10dcb36-c01e-4885-ac77-0639b7cff03c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nytoday-swap/05nytoday-swap-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nytoday-swap/05nytoday-swap-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nytoday-swap/merlin_178048248_d10dcb36-c01e-4885-ac77-0639b7cff03c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/nyregion/05nytoday-swap/merlin_178048248_d10dcb36-c01e-4885-ac77-0639b7cff03c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Abramson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2F1WjZj"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "White House Is Not Contact Tracing \u2018Super-Spreader\u2019 Rose Garden Event",
+      "abstract": "Since President Trump\u2019s Covid diagnosis, numerous associates have tested positive, but the White House has not aggressively investigated the outbreak.",
+      "url": "https://www.nytimes.com/2020/10/05/health/contact-tracing-white-house.html",
+      "uri": "nyt://article/788e8996-690f-53ba-a926-56651d477840",
+      "byline": "By Apoorva Mandavilli and Tracey Tully",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:50:35-04:00",
+      "created_date": "2020-10-05T17:31:38-04:00",
+      "published_date": "2020-10-05T17:31:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "Trump Coronavirus Positive Result",
+        "United States Politics and Government",
+        "Contact Tracing (Public Health)",
+        "Presidential Election of 2020",
+        "Medicine and Health",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "Tests (Medical)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/science/05VIRUS-TRACING01/05VIRUS-TRACING01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Despite being linked to seven coronavirus infections, the White House is not tracing contacts of those who attended the celebration for Judge Amy Coney Barrett on Sept. 26.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33yCHWg"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "1 Dead and 2 Are Injured as Seaplane Slams Into Pier in Queens",
+      "abstract": "The plane, \u201ctraveling rather fast along the water, skipped twice and hit the pier,\u201d the New York fire commissioner said.",
+      "url": "https://www.nytimes.com/2020/10/04/nyregion/queens-plane-crash.html",
+      "uri": "nyt://article/5f4c0ace-57a4-556e-9666-e5e8823e164d",
+      "byline": "By Concepci\u00f3n de Le\u00f3n",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T08:32:41-04:00",
+      "created_date": "2020-10-04T19:33:44-04:00",
+      "published_date": "2020-10-04T19:33:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters"
+      ],
+      "org_facet": [
+        "Fire Department (NYC)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Whitestone (Queens, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04xp-seaplane-crash/04xp-seaplane-crash-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A single-engine seaplane hit a concrete pier near the Throgs Neck Bridge in Whitestone, Queens, on Sunday.\u00a0",
+          "copyright": "New York City Fire Deptartment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04xp-seaplane-crash/04xp-seaplane-crash-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A single-engine seaplane hit a concrete pier near the Throgs Neck Bridge in Whitestone, Queens, on Sunday.\u00a0",
+          "copyright": "New York City Fire Deptartment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04xp-seaplane-crash/04xp-seaplane-crash-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A single-engine seaplane hit a concrete pier near the Throgs Neck Bridge in Whitestone, Queens, on Sunday.\u00a0",
+          "copyright": "New York City Fire Deptartment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04xp-seaplane-crash/04xp-seaplane-crash-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A single-engine seaplane hit a concrete pier near the Throgs Neck Bridge in Whitestone, Queens, on Sunday.\u00a0",
+          "copyright": "New York City Fire Deptartment"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04xp-seaplane-crash/04xp-seaplane-crash-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A single-engine seaplane hit a concrete pier near the Throgs Neck Bridge in Whitestone, Queens, on Sunday.\u00a0",
+          "copyright": "New York City Fire Deptartment"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lcvC3p"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Fearing 2nd Wave, N.Y.C. Will Adopt Restrictions in Hard-Hit Areas",
+      "abstract": "\u201cToday, unfortunately, is not a day for celebration,\u201d the mayor said of rising virus rates. His plan would affect 20 neighborhoods in Brooklyn and Queens.",
+      "url": "https://www.nytimes.com/2020/10/04/nyregion/nyc-covid-shutdown-zip-codes.html",
+      "uri": "nyt://article/a8861dc1-855d-5d8a-b21c-bb643ad52086",
+      "byline": "By Dana Rubinstein, Daniel E. Slotnik, Eliza Shapiro and Liam Stack",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T16:36:09-04:00",
+      "created_date": "2020-10-04T12:45:16-04:00",
+      "published_date": "2020-10-04T12:45:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Quarantines",
+        "Education (K-12)",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Brooklyn (NYC)",
+        "Queens (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-SHUTDOWN/04NYVIRUS-SHUTDOWN-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Schoolchildren in the Brooklyn neighborhood of Borough Park, where there is an increase in coronavirus cases. The mayor plans to close nonessential businesses and schools in this neighborhood and eight others.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-SHUTDOWN/04NYVIRUS-SHUTDOWN-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Schoolchildren in the Brooklyn neighborhood of Borough Park, where there is an increase in coronavirus cases. The mayor plans to close nonessential businesses and schools in this neighborhood and eight others.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-SHUTDOWN/04NYVIRUS-SHUTDOWN-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Schoolchildren in the Brooklyn neighborhood of Borough Park, where there is an increase in coronavirus cases. The mayor plans to close nonessential businesses and schools in this neighborhood and eight others.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-SHUTDOWN/04NYVIRUS-SHUTDOWN-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Schoolchildren in the Brooklyn neighborhood of Borough Park, where there is an increase in coronavirus cases. The mayor plans to close nonessential businesses and schools in this neighborhood and eight others.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-SHUTDOWN/04NYVIRUS-SHUTDOWN-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Schoolchildren in the Brooklyn neighborhood of Borough Park, where there is an increase in coronavirus cases. The mayor plans to close nonessential businesses and schools in this neighborhood and eight others.",
+          "copyright": "Mark Abramson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GpD2S3"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "Homes That Sold for Around $750,000",
+      "abstract": "Recent residential sales in New York City and the region.",
+      "url": "https://www.nytimes.com/2020/10/04/realestate/homes-that-sold-for-around-750000.html",
+      "uri": "nyt://article/dc522120-a8d3-5778-9bf3-7068197a8478",
+      "byline": "By C. J. Hughes",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T17:11:26-04:00",
+      "created_date": "2020-10-04T05:00:09-04:00",
+      "published_date": "2020-10-04T05:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "What\u2019s selling now",
+      "des_facet": [
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York Metropolitan Area"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1141,
+          "width": 1713,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2SrKDC2"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "\u2018In 1973, I Yelled Out to Elston Howard, the Former Yankees Catcher\u2019",
+      "abstract": "Spotting famous people on the street, a night outside the Met and more reader tales of New York City in this week\u2019s Metropolitan Diary.",
+      "url": "https://www.nytimes.com/2020/10/04/nyregion/metropolitan-diary.html",
+      "uri": "nyt://article/90515b83-cd92-510c-a7cf-6a7b05e43240",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T17:56:37-04:00",
+      "created_date": "2020-10-04T03:00:09-04:00",
+      "published_date": "2020-10-04T03:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "METROPOLITAN DIARY",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04diary-illos-02/04diary-illos-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 862,
+          "width": 1316,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04diary-illos-02/04diary-illos-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04diary-illos-02/04diary-illos-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04diary-illos-02/04diary-illos-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04diary-illos-02/04diary-illos-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/34rar6U"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "The Best Live Animal Feeds From Around the World",
+      "abstract": "Research shows that watching footage of them can make you happier, so here\u2019s a list of round-the-clock camera footage that will bring koalas, penguins and puppies straight to your screen.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/best-animal-feeds.html",
+      "uri": "nyt://article/7decf6b4-c439-550c-8b10-111f5766f9e6",
+      "byline": "By Sara Aridi",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T08:39:38-04:00",
+      "created_date": "2020-10-03T23:43:08-04:00",
+      "published_date": "2020-10-03T23:43:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Animals",
+        "Zoos",
+        "Video Recordings, Downloads and Streaming",
+        "Wildlife Sanctuaries and Nature Reserves",
+        "Computers and the Internet",
+        "Elephants",
+        "Dogs",
+        "Bears",
+        "Fish and Other Marine Life",
+        "Monkeys and Apes",
+        "Aquariums",
+        "National Parks, Monuments and Seashores",
+        "Parks and Other Recreation Areas",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [
+        "San Diego Zoo",
+        "Smithsonian National Zoological Park"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-animal-cam2/04-ah-animal-cam2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1592,
+          "width": 1101,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-animal-cam2/04-ah-animal-cam2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-animal-cam2/04-ah-animal-cam2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-animal-cam2/04-ah-animal-cam2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-animal-cam2/04-ah-animal-cam2-articleInline.jpg",
+          "format": "Normal",
+          "height": 275,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cTj3ao"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "6 Ways to Celebrate Halloween From Behind the Wheel",
+      "abstract": "Drive-in horror film screenings and fright-night experiences are popping up around the country for a pandemic-safe holiday.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/celebrate-halloween-from-your-car.html",
+      "uri": "nyt://article/931e713a-e913-57da-ac30-b8a7b0c50c80",
+      "byline": "By Erik Piepenburg",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T17:55:08-04:00",
+      "created_date": "2020-10-03T23:22:09-04:00",
+      "published_date": "2020-10-03T23:22:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Automobiles",
+        "Movies",
+        "Halloween",
+        "Drive-in Theaters",
+        "Haunted Houses",
+        "Food Trucks and Vendors",
+        "Parking Garages and Lots",
+        "Ghosts"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brandon Thibodeaux for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brandon Thibodeaux for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brandon Thibodeaux for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brandon Thibodeaux for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brandon Thibodeaux for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cTMSHU"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Try \u2018Comedy Pilates\u2019 and Celebrate Indigenous Cultures",
+      "abstract": "This week, dive into the British Museum\u2019s artifact collection, make art out of leftover veggies and revisit the myth of the Loch Ness monster.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/things-to-do-this-week.html",
+      "uri": "nyt://article/7713ac38-c946-5b06-9d70-17dd1694f5b5",
+      "byline": "By Adriana Balsamo and Hilary Moss",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T23:24:58-04:00",
+      "created_date": "2020-10-03T23:04:07-04:00",
+      "published_date": "2020-10-03T23:04:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Art",
+        "Museums",
+        "Music",
+        "Books and Literature",
+        "Theater",
+        "Pilates",
+        "Handicrafts",
+        "National Book Awards"
+      ],
+      "org_facet": [
+        "Books Are Magic (Brooklyn, NY, Retailer)"
+      ],
+      "per_facet": [
+        "Klay, Phil"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-calendar-comedy-pliates/04-ah-calendar-native-peoples-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1340,
+          "width": 720,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-calendar-comedy-pliates/04-ah-calendar-comedy-pliates-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-calendar-comedy-pliates/04-ah-calendar-comedy-pliates-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-calendar-comedy-pliates/04-ah-calendar-comedy-pliates-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-calendar-comedy-pliates/04-ah-calendar-native-peoples-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 354,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SnbUp8"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Identify the Different Symptoms of the Flu and Covid-19",
+      "abstract": "With fears of a \u201ctwindemic\u201d in the United States this fall, here\u2019s a guide to understanding what\u2019s making you feel terrible.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html",
+      "uri": "nyt://article/74278bf8-65e6-52a4-9f10-281093e014fd",
+      "byline": "By Donald G. McNeil Jr.",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T23:11:48-04:00",
+      "created_date": "2020-10-03T22:46:08-04:00",
+      "published_date": "2020-10-03T22:46:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Influenza",
+        "Tests (Medical)",
+        "Colds",
+        "Masks",
+        "Fever",
+        "Vaccination and Immunization",
+        "Doctors"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1770,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-articleInline.jpg",
+          "format": "Normal",
+          "height": 164,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nhpMzy"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Podcasts to Inform Your Vote",
+      "abstract": "An educated citizenry is vital for the Republic\u2019s survival. These podcasts offer a good place to start.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/podcasts-to-inform-your-vote.html",
+      "uri": "nyt://article/d9a8b80d-5e2a-578c-b3c5-e26edc1c6b5a",
+      "byline": "By Phoebe Lett",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T23:39:47-04:00",
+      "created_date": "2020-10-03T22:22:07-04:00",
+      "published_date": "2020-10-03T22:22:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Absentee Voting",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Podcasts",
+        "Civil Rights and Liberties",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [
+        "iHeartMedia Inc",
+        "New Hampshire Public Radio"
+      ],
+      "per_facet": [
+        "Andres, Jose (1969- )",
+        "Thurston, Baratunde"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/podcasts/27ah-podcast-combo/27ah-podcast-combo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/podcasts/27ah-podcast-combo/27ah-podcast-combo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/podcasts/27ah-podcast-combo/27ah-podcast-combo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/podcasts/27ah-podcast-combo/27ah-podcast-combo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/podcasts/27ah-podcast-combo/27ah-podcast-combo-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3inelTq"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Use Your Newspaper to Make a Flibber (A What?)",
+      "abstract": "It\u2019s a cross between a drum major\u2019s baton, a pompom and a palm tree, and it doesn\u2019t even require scissors to create.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/diy-flibber-made-of-newspaper.html",
+      "uri": "nyt://article/1c613353-7d20-5251-9f7b-115594a9b31d",
+      "byline": "By Catherine Hong",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T23:41:01-04:00",
+      "created_date": "2020-10-03T22:09:10-04:00",
+      "published_date": "2020-10-03T22:09:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Content Type: Service",
+        "Handicrafts",
+        "Newspapers"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-activityFlibbers1/merlin_177729516_63cdd1c9-acab-4c65-9a45-26a2891a1cdc-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hail the Flibber!",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-activityFlibbers1/04ah-activityFlubbers1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hail the Flibber!",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-activityFlibbers1/04ah-activityFlubbers1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hail the Flibber!",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-activityFlibbers1/04ah-activityFlubbers1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hail the Flibber!",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-activityFlibbers1/merlin_177729516_63cdd1c9-acab-4c65-9a45-26a2891a1cdc-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hail the Flibber!",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33v0ExD"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Steve Barnes, of Cellino & Barnes Law Firm, Dies in Plane Crash",
+      "abstract": "Mr. Barnes, one half of the personal injury firm known for its infectious jingle, was flying a small plane when it crashed in upstate New York, killing him and a passenger.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/stephen-barnes-dead-plane-crash.html",
+      "uri": "nyt://article/76fd8114-f4b4-5cf2-a168-08c6dc9a4dd9",
+      "byline": "By Juliana Kim",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T15:16:40-04:00",
+      "created_date": "2020-10-02T19:44:19-04:00",
+      "published_date": "2020-10-02T19:44:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Barnes, Stephen E"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02barnesNEW/02barnesNEW-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen E. Barnes in 2009.",
+          "copyright": "Buffalo News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02barnesNEW/02barnesNEW-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen E. Barnes in 2009.",
+          "copyright": "Buffalo News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02barnesNEW/02barnesNEW-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen E. Barnes in 2009.",
+          "copyright": "Buffalo News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02barnesNEW/02barnesNEW-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen E. Barnes in 2009.",
+          "copyright": "Buffalo News"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02barnesNEW/02barnesNEW-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen E. Barnes in 2009.",
+          "copyright": "Buffalo News"
+        }
+      ],
+      "short_url": "https://nyti.ms/36FDfeX"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "It\u2019s Time for Diners to Ask the Servers: How Are You Doing?",
+      "abstract": "As indoor dining returns to New York, the danger to restaurant workers increases. So does the need to protect them.",
+      "url": "https://www.nytimes.com/2020/10/02/dining/restaurant-servers-coronavirus.html",
+      "uri": "nyt://article/be2f9a37-7baa-56ab-a062-77392790da1f",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T16:08:31-04:00",
+      "created_date": "2020-10-02T17:15:12-04:00",
+      "published_date": "2020-10-02T17:15:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Restaurants",
+        "Waiters and Waitresses",
+        "Workplace Hazards and Violations",
+        "Labor and Jobs",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1251,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-articleInline.jpg",
+          "format": "Normal",
+          "height": 116,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ESS9mi"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Soraya Santiago Solla, Transgender Trailblazer, Dies at 72",
+      "abstract": "She was the first in Puerto Rico to change a gender designation on a birth certificate and the first there to reveal that she\u2019d had sex-reassignment surgery.",
+      "url": "https://www.nytimes.com/2020/10/02/us/soraya-santiago-solla-dead.html",
+      "uri": "nyt://article/572350a2-30c2-5f34-acc8-24232a6e962c",
+      "byline": "By Frances Robles",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T13:50:07-04:00",
+      "created_date": "2020-10-02T16:54:55-04:00",
+      "published_date": "2020-10-02T16:54:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Transgender and Transsexuals",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Santiago Solla, Soraya (1947-2020)"
+      ],
+      "geo_facet": [
+        "Puerto Rico"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Santiago-obit2/02Santiago2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1062,
+          "width": 1593,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soraya Santiago Solla appearing in &ldquo;Mala Mala,&rdquo; a 2014 documentary film about the transgender community in Puerto Rico. She left the island for New York as a teenager, telling her sister, &ldquo;I&rsquo;m leaving, I can&rsquo;t continue with this.&rdquo;",
+          "copyright": "Mala Mala"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Santiago-obit2/02Santiago2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soraya Santiago Solla appearing in &ldquo;Mala Mala,&rdquo; a 2014 documentary film about the transgender community in Puerto Rico. She left the island for New York as a teenager, telling her sister, &ldquo;I&rsquo;m leaving, I can&rsquo;t continue with this.&rdquo;",
+          "copyright": "Mala Mala"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Santiago-obit2/02Santiago2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soraya Santiago Solla appearing in &ldquo;Mala Mala,&rdquo; a 2014 documentary film about the transgender community in Puerto Rico. She left the island for New York as a teenager, telling her sister, &ldquo;I&rsquo;m leaving, I can&rsquo;t continue with this.&rdquo;",
+          "copyright": "Mala Mala"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Santiago-obit2/02Santiago2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soraya Santiago Solla appearing in &ldquo;Mala Mala,&rdquo; a 2014 documentary film about the transgender community in Puerto Rico. She left the island for New York as a teenager, telling her sister, &ldquo;I&rsquo;m leaving, I can&rsquo;t continue with this.&rdquo;",
+          "copyright": "Mala Mala"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Santiago-obit2/02Santiago2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soraya Santiago Solla appearing in &ldquo;Mala Mala,&rdquo; a 2014 documentary film about the transgender community in Puerto Rico. She left the island for New York as a teenager, telling her sister, &ldquo;I&rsquo;m leaving, I can&rsquo;t continue with this.&rdquo;",
+          "copyright": "Mala Mala"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Si6CeR"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Rochester Mayor Is Indicted, Throwing City Into Further Turmoil",
+      "abstract": "Mayor Lovely Warren was charged with two campaign finance violations, adding to the city\u2019s political chaos in the aftermath of Daniel Prude\u2019s death.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/rochester-mayor-warren-indicted.html",
+      "uri": "nyt://article/59aea27e-29c3-55ee-a537-2b0e1cca0224",
+      "byline": "By Luis Ferr\u00e9-Sadurn\u00ed and Jesse McKinley",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T13:12:58-04:00",
+      "created_date": "2020-10-02T16:07:49-04:00",
+      "published_date": "2020-10-02T16:07:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Campaign Finance",
+        "Corruption (Institutional)",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Warren, Lovely A"
+      ],
+      "geo_facet": [
+        "Rochester (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02NY-WARREN/02warren1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Lovely Warren, left, has been under fire over her administration\u2019s handling of the death of Daniel Prude after an encounter with the police in Rochester, N.Y.",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02NY-WARREN/02warren1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Lovely Warren, left, has been under fire over her administration\u2019s handling of the death of Daniel Prude after an encounter with the police in Rochester, N.Y.",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02NY-WARREN/02warren1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Lovely Warren, left, has been under fire over her administration\u2019s handling of the death of Daniel Prude after an encounter with the police in Rochester, N.Y.",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02NY-WARREN/02warren1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Lovely Warren, left, has been under fire over her administration\u2019s handling of the death of Daniel Prude after an encounter with the police in Rochester, N.Y.",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02NY-WARREN/02warren1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Lovely Warren, left, has been under fire over her administration\u2019s handling of the death of Daniel Prude after an encounter with the police in Rochester, N.Y.",
+          "copyright": "Joshua Rashaad McFadden for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iqam8L"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Meet Theater\u2019s Most Famous Superfan: Hillary Clinton",
+      "abstract": "She\u2019s been to 39 shows since the 2016 election, and believes Broadway will return. But she doesn\u2019t have the \u201cgumption\u201d to see herself depicted just yet.",
+      "url": "https://www.nytimes.com/2020/10/02/theater/hillary-clinton-broadway.html",
+      "uri": "nyt://article/d9886f4b-bc74-56ff-80de-73aafa354fe9",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T00:11:56-04:00",
+      "created_date": "2020-10-02T14:20:46-04:00",
+      "published_date": "2020-10-02T14:20:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Clinton, Hillary Rodham"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/arts/02HRC-THEATER-2/02HRC-THEATER-2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1385,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton backstage with Andr&eacute; De Shields and other members of the cast of the Broadway musical &ldquo;Hadestown&rdquo; in June 2019.",
+          "copyright": "Jenny Anderson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/arts/02HRC-THEATER-2/02HRC-THEATER-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton backstage with Andr&eacute; De Shields and other members of the cast of the Broadway musical &ldquo;Hadestown&rdquo; in June 2019.",
+          "copyright": "Jenny Anderson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/arts/02HRC-THEATER-2/02HRC-THEATER-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton backstage with Andr&eacute; De Shields and other members of the cast of the Broadway musical &ldquo;Hadestown&rdquo; in June 2019.",
+          "copyright": "Jenny Anderson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/arts/02HRC-THEATER-2/02HRC-THEATER-2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton backstage with Andr&eacute; De Shields and other members of the cast of the Broadway musical &ldquo;Hadestown&rdquo; in June 2019.",
+          "copyright": "Jenny Anderson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/arts/02HRC-THEATER-2/02HRC-THEATER-2-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton backstage with Andr&eacute; De Shields and other members of the cast of the Broadway musical &ldquo;Hadestown&rdquo; in June 2019.",
+          "copyright": "Jenny Anderson/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/36xTGKd"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "N.Y. Voting Officials Need Money. They Were Told to Go to Zuckerberg.",
+      "abstract": "Local election boards say they may need up to $50 million to avoid a repeat of the botched primary, so some are seeking, and receiving, grants funded by the Facebook chief executive.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/voting-absentee-ballots-ny.html",
+      "uri": "nyt://article/d46c9cde-b55e-5b4b-861e-df48a388e671",
+      "byline": "By Jesse McKinley and Luis Ferr\u00e9-Sadurn\u00ed",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T15:53:02-04:00",
+      "created_date": "2020-10-02T12:41:43-04:00",
+      "published_date": "2020-10-02T12:41:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Budgets and Budgeting",
+        "Absentee Voting",
+        "Presidential Election of 2020",
+        "Coronavirus (2019-nCoV)",
+        "Grants (Corporate and Foundation)"
+      ],
+      "org_facet": [
+        "Board of Elections (NYS)",
+        "Board of Elections (NYC)",
+        "Center for Technology and Civic Life"
+      ],
+      "per_facet": [
+        "Zuckerberg, Mark E"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02ny-elections/02ny-elections-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Center for Tech and Civic Life, which is offering grants to elections boards, is backed by a $250 million donation from Mark Zuckerberg and his wife, Priscilla Chan.",
+          "copyright": "Tobias Hase/picture-alliance, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02ny-elections/02ny-elections-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Center for Tech and Civic Life, which is offering grants to elections boards, is backed by a $250 million donation from Mark Zuckerberg and his wife, Priscilla Chan.",
+          "copyright": "Tobias Hase/picture-alliance, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02ny-elections/02ny-elections-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Center for Tech and Civic Life, which is offering grants to elections boards, is backed by a $250 million donation from Mark Zuckerberg and his wife, Priscilla Chan.",
+          "copyright": "Tobias Hase/picture-alliance, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02ny-elections/02ny-elections-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Center for Tech and Civic Life, which is offering grants to elections boards, is backed by a $250 million donation from Mark Zuckerberg and his wife, Priscilla Chan.",
+          "copyright": "Tobias Hase/picture-alliance, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02ny-elections/02ny-elections-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Center for Tech and Civic Life, which is offering grants to elections boards, is backed by a $250 million donation from Mark Zuckerberg and his wife, Priscilla Chan.",
+          "copyright": "Tobias Hase/picture-alliance, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kZZEHE"
+    },
+    {
+      "section": "realestate",
+      "subsection": "",
+      "title": "Audubon Park, From Hinterlands to Urban Density",
+      "abstract": "The ornithologist-painter John James Audubon took flight from Lower Manhattan to escape its \u2018pestilential vapors.\u2019 He landed in the picturesque woodland of the future Washington Heights, changing its landscape forever.",
+      "url": "https://www.nytimes.com/2020/10/02/realestate/audubon-park-washington-heights-streetscapes.html",
+      "uri": "nyt://article/852b83a7-ca31-51ea-9a08-c517e3144c96",
+      "byline": "By John Freeman Gill",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T15:26:54-04:00",
+      "created_date": "2020-10-02T08:00:11-04:00",
+      "published_date": "2020-10-02T08:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "streetscapes",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Historic Buildings and Sites"
+      ],
+      "org_facet": [
+        "Audubon Society, National",
+        "New-York Historical Society"
+      ],
+      "per_facet": [
+        "Audubon, John James",
+        "Grinnell, George Bird"
+      ],
+      "geo_facet": [
+        "Riverside Drive (Manhattan, NY)",
+        "Washington Heights (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/02streetscapes5/merlin_177478938_48a584d4-2cc7-47f6-a1ed-612b78425a91-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trinity Church Cemetery and Mausoleum, where the wildlife painter John James Audubon is buried (looking north). The wall at rear is at West 155th Street, the southern margin of the 14 acres of woodland to which Audubon moved his family in 1842.",
+          "copyright": "Katherine Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/02streetscapes5/merlin_177478938_48a584d4-2cc7-47f6-a1ed-612b78425a91-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trinity Church Cemetery and Mausoleum, where the wildlife painter John James Audubon is buried (looking north). The wall at rear is at West 155th Street, the southern margin of the 14 acres of woodland to which Audubon moved his family in 1842.",
+          "copyright": "Katherine Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/02streetscapes5/merlin_177478938_48a584d4-2cc7-47f6-a1ed-612b78425a91-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trinity Church Cemetery and Mausoleum, where the wildlife painter John James Audubon is buried (looking north). The wall at rear is at West 155th Street, the southern margin of the 14 acres of woodland to which Audubon moved his family in 1842.",
+          "copyright": "Katherine Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/02streetscapes5/merlin_177478938_48a584d4-2cc7-47f6-a1ed-612b78425a91-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trinity Church Cemetery and Mausoleum, where the wildlife painter John James Audubon is buried (looking north). The wall at rear is at West 155th Street, the southern margin of the 14 acres of woodland to which Audubon moved his family in 1842.",
+          "copyright": "Katherine Marks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/realestate/02streetscapes5/merlin_177478938_48a584d4-2cc7-47f6-a1ed-612b78425a91-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trinity Church Cemetery and Mausoleum, where the wildlife painter John James Audubon is buried (looking north). The wall at rear is at West 155th Street, the southern margin of the 14 acres of woodland to which Audubon moved his family in 1842.",
+          "copyright": "Katherine Marks for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33pNQIR"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Cycling Helped Our 52 Places Traveler Fall Back in Love with N.Y.",
+      "abstract": "Here's what he appreciates about leaving behind flights and taking up biking.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/sebastian-modak-52-places-traveler.html",
+      "uri": "nyt://article/e3006d7c-a6d3-5dae-85b2-b2609b09d9e7",
+      "byline": "By Troy Closson",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T05:28:47-04:00",
+      "created_date": "2020-10-02T05:23:56-04:00",
+      "published_date": "2020-10-02T05:23:56-04:00",
+      "material_type_facet": "",
+      "kicker": "New York Today",
+      "des_facet": [
+        "Bicycles and Bicycling",
+        "Coronavirus (2019-nCoV)",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Modak, Sebastian"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/02nytoday/02nytoday-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/02nytoday/02nytoday-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/02nytoday/02nytoday-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/02nytoday/02nytoday-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/02nytoday/02nytoday-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sebastian Modak"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SltxWE"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Why New York Comedy Has Gone Underground (and Onto the Rooftops)",
+      "abstract": "Unlike live music, stand-up is still not allowed where food and drinks are sold. Comedians are doing pop-up gigs wherever they can.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/coronavirus-nyc-comedy-clubs.html",
+      "uri": "nyt://article/f50dab25-b929-5efd-af9a-fd06f5a409e6",
+      "byline": "By Sasha von Oldershausen",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T15:17:16-04:00",
+      "created_date": "2020-10-02T05:00:52-04:00",
+      "published_date": "2020-10-02T05:00:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Comedy and Humor",
+        "Bars and Nightclubs",
+        "Shutdowns (Institutional)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [
+        "New York State Liquor Authority"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nyvirus-comedy1/04nyvirus-comedy1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nyvirus-comedy1/04nyvirus-comedy1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nyvirus-comedy1/04nyvirus-comedy1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nyvirus-comedy1/04nyvirus-comedy1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04nyvirus-comedy1/04nyvirus-comedy1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EVItaQ"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "I Traveled to 52 Places. Then I Discovered N.Y. on My Bike.",
+      "abstract": "After a nonstop year journeying to far-flung destinations for The Times, a well-traveled writer learns to love the local attractions \u2014 and the spaces in between.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/52-places-traveler-biking-ny.html",
+      "uri": "nyt://article/c5063ba7-6659-5b1d-b9a1-f80192ddef1a",
+      "byline": "By Sebastian Modak",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T15:09:04-04:00",
+      "created_date": "2020-10-02T05:00:39-04:00",
+      "published_date": "2020-10-02T05:00:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Bicycles and Bicycling",
+        "Road Trips",
+        "Quarantine (Life and Culture)",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Catskills (NYS Area)",
+        "Hudson River Valley (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/nyregion/04NYVIRUS-BIKE1/00ny-bike-camping10-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The hills might not look like much from a car, but on a bike, the Catskills are definitely a climb.",
+          "copyright": "Sebastian Modak"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ERgFEn"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "They Keep An Iconic Roller Coaster Ready for When Crowds Return",
+      "abstract": "Two workers at Coney Island\u2019s Luna Park spend their days maintaining the Cyclone. But after a year of being closed, it\u2019s unclear when the park will be able to reopen.",
+      "url": "https://www.nytimes.com/interactive/2020/10/02/nyregion/coney-island-reopening.html",
+      "uri": "nyt://interactive/d6db05d7-c835-5255-8cff-6fc844a8cc25",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-10-02T07:30:57-04:00",
+      "created_date": "2020-10-02T05:00:39-04:00",
+      "published_date": "2020-10-02T05:00:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Amusement and Theme Parks",
+        "Roller Coasters"
+      ],
+      "org_facet": [
+        "Luna Park (Brooklyn, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Coney Island (Brooklyn, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2047,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/30sjbsf"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "How a #BlackLivesMatter Leader Spends His Sundays",
+      "abstract": "For Hawk Newsome, a co-founder of a movement in New York, the activism does not let up on the weekend.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/black-lives-matter-nyc-hawk-newsome.html",
+      "uri": "nyt://article/8523ca2f-c3b4-5987-bfd5-7346655c20e4",
+      "byline": "By Derek M. Norman",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T05:54:48-04:00",
+      "created_date": "2020-10-02T05:00:29-04:00",
+      "published_date": "2020-10-02T05:00:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "Demonstrations, Protests and Riots",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newsome, Hawk"
+      ],
+      "geo_facet": [
+        "Harlem (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02routine/02routine-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Hawk Newsome, a rights activist, the day begins with the Bible, then a check of social media.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02routine/02routine-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Hawk Newsome, a rights activist, the day begins with the Bible, then a check of social media.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02routine/02routine-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Hawk Newsome, a rights activist, the day begins with the Bible, then a check of social media.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02routine/02routine-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Hawk Newsome, a rights activist, the day begins with the Bible, then a check of social media.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02routine/02routine-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For Hawk Newsome, a rights activist, the day begins with the Bible, then a check of social media.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ivVQfL"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "N.Y.C.\u2019s School Testing Plan May Miss Large Outbreaks, Study Finds",
+      "abstract": "Half of New York\u2019s students should be tested every two weeks, researchers estimate. Officials plan to test only 10 to 20 percent of each school every month.",
+      "url": "https://www.nytimes.com/2020/10/02/nyregion/schools-virus-testing-outbreak.html",
+      "uri": "nyt://article/07302150-2e32-5a7f-a0d3-391261c60041",
+      "byline": "By Benedict Carey, James Glanz and Eliza Shapiro",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T13:01:09-04:00",
+      "created_date": "2020-10-02T05:00:25-04:00",
+      "published_date": "2020-10-02T05:00:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Education (K-12)",
+        "Disease Rates",
+        "Research",
+        "Tests (Medical)"
+      ],
+      "org_facet": [
+        "New York University",
+        "Health and Mental Hygiene Department (NYC)"
+      ],
+      "per_facet": [
+        "Varma, Jay K"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02virus-schooltesting-promo/02virus-schooltesting-promo-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02virus-schooltesting-promo/02virus-schooltesting-promo-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02virus-schooltesting-promo/02virus-schooltesting-promo-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02virus-schooltesting-promo/02virus-schooltesting-promo-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/nyregion/02virus-schooltesting-promo/02virus-schooltesting-promo-articleInline.png",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        }
+      ],
+      "short_url": "https://nyti.ms/2ES69wG"
+    }
+  ]
+}

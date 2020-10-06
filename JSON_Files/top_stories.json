@@ -1,0 +1,3105 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Food",
+  "last_updated": "2020-10-05T21:02:30-04:00",
+  "num_results": 39,
+  "results": [
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What I Learned From Loving Mapo Tofu",
+      "abstract": "A decades-long fascination with the much-loved Sichuan dish inspires research \u2014 and eventually a little experimentation.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/mapo-tofu-recipes.html",
+      "uri": "nyt://article/e138108f-f14f-57f4-8a47-b066529a47d2",
+      "byline": "By Andrea Nguyen",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T13:05:25-04:00",
+      "created_date": "2020-10-05T10:27:24-04:00",
+      "published_date": "2020-10-05T10:27:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Tofu",
+        "Chinese Food (Cuisine)",
+        "Pasta"
+      ],
+      "org_facet": [
+        "Nightshade (Los Angeles, Calif, Restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Chengdu (China)",
+        "Sichuan Province (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mapo tofu\u2019s origins reach back to the late 1800s.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo1/02mapo1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mapo tofu\u2019s origins reach back to the late 1800s.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo1/02mapo1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mapo tofu\u2019s origins reach back to the late 1800s.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mapo tofu\u2019s origins reach back to the late 1800s.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mapo tofu\u2019s origins reach back to the late 1800s.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3d1wvcc"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "How to Build a Better Dinner",
+      "abstract": "To be a faster, more creative cook, take a cue from restaurant chefs, J. Kenji L\u00f3pez-Alt suggests, and rely on culinary building blocks.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/cooking-foundations.html",
+      "uri": "nyt://article/7bd462a4-3e20-588c-ac9e-5f4b2cad93fc",
+      "byline": "By J. Kenji L\u00f3pez-Alt",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T16:36:51-04:00",
+      "created_date": "2020-10-05T16:36:51-04:00",
+      "published_date": "2020-10-05T16:36:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cooking and Cookbooks",
+        "Restaurants",
+        "Sauces",
+        "Meat",
+        "Chickpeas",
+        "Chefs"
+      ],
+      "org_facet": [
+        "Butter (Manhattan, NY, Restaurant)",
+        "Nari (San Francisco, Calif, Restaurant)"
+      ],
+      "per_facet": [
+        "Techamuanvivit, Pim",
+        "Mistry, Preeti (Chef)",
+        "Guarnaschelli, Alex (1972- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Kenji1/merlin_173126460_50bf539e-c8d9-49d6-8e5b-0b9d05eb58ff-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This pepper-and-onion base can used to enhance a number of dishes.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Kenji1/05Kenji1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This pepper-and-onion base can used to enhance a number of dishes.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Kenji1/05Kenji1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This pepper-and-onion base can used to enhance a number of dishes.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Kenji1/merlin_173126460_50bf539e-c8d9-49d6-8e5b-0b9d05eb58ff-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This pepper-and-onion base can used to enhance a number of dishes.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Kenji1/merlin_173126460_50bf539e-c8d9-49d6-8e5b-0b9d05eb58ff-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This pepper-and-onion base can used to enhance a number of dishes.",
+          "copyright": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/34ypBrk"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "California Fires Take a Deep Toll on Wine Country",
+      "abstract": "Beyond the financial cost of the destruction in Napa Valley is the emotional price, as wine that\u2019s been nurtured from vineyard to barrel flows down the drain.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/drinks/california-fires-wine-napa.html",
+      "uri": "nyt://article/f95eeb26-ec8f-5aca-a6b5-cc49e34f963c",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T21:21:08-04:00",
+      "created_date": "2020-10-05T13:10:48-04:00",
+      "published_date": "2020-10-05T13:10:48-04:00",
+      "material_type_facet": "",
+      "kicker": "The Pour",
+      "des_facet": [
+        "Wines",
+        "Grapes",
+        "Fires and Firefighters"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Napa (Calif)",
+        "Calistoga (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05pour1/merlin_177967395_d1cd4594-a1ac-40d1-ab27-4bca1d945123-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red grapes scorched by fires at Chateau Boswell in St. Helena, Calif. Many Napa wineries had not completed their harvest before the fires struck.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05pour1/05pour1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red grapes scorched by fires at Chateau Boswell in St. Helena, Calif. Many Napa wineries had not completed their harvest before the fires struck.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05pour1/05pour1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red grapes scorched by fires at Chateau Boswell in St. Helena, Calif. Many Napa wineries had not completed their harvest before the fires struck.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05pour1/merlin_177967395_d1cd4594-a1ac-40d1-ab27-4bca1d945123-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red grapes scorched by fires at Chateau Boswell in St. Helena, Calif. Many Napa wineries had not completed their harvest before the fires struck.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05pour1/merlin_177967395_d1cd4594-a1ac-40d1-ab27-4bca1d945123-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red grapes scorched by fires at Chateau Boswell in St. Helena, Calif. Many Napa wineries had not completed their harvest before the fires struck.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36APdGE"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Twice the Cooking, but Boundless Flavor",
+      "abstract": "Buttery swordfish pairs with eggplant that\u2019s been broiled, then simmered until it collapses in a velvety heap in this sophisticated weeknight dinner.",
+      "url": "https://www.nytimes.com/2020/10/02/dining/swordfish-eggplant-recipe.html",
+      "uri": "nyt://article/96061be6-d1c5-5a64-868d-79b19edfad28",
+      "byline": "By Melissa Clark",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T14:10:41-04:00",
+      "created_date": "2020-10-02T09:49:39-04:00",
+      "published_date": "2020-10-02T09:49:39-04:00",
+      "material_type_facet": "",
+      "kicker": "A Good Appetite",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Seafood",
+        "Eggplants"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/02Appe1/merlin_177584094_8f0afae0-9291-43dd-9366-740533d6628b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Swordfish with twice-cooked eggplant and capers.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/02Appe1/merlin_177584094_8f0afae0-9291-43dd-9366-740533d6628b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Swordfish with twice-cooked eggplant and capers.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/02Appe1/merlin_177584094_8f0afae0-9291-43dd-9366-740533d6628b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Swordfish with twice-cooked eggplant and capers.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/02Appe1/merlin_177584094_8f0afae0-9291-43dd-9366-740533d6628b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Swordfish with twice-cooked eggplant and capers.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/02Appe1/merlin_177584094_8f0afae0-9291-43dd-9366-740533d6628b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Swordfish with twice-cooked eggplant and capers.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/36sWzvM"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "It\u2019s Time for Diners to Ask the Servers: How Are You Doing?",
+      "abstract": "As indoor dining returns to New York, the danger to restaurant workers increases. So does the need to protect them.",
+      "url": "https://www.nytimes.com/2020/10/02/dining/restaurant-servers-coronavirus.html",
+      "uri": "nyt://article/be2f9a37-7baa-56ab-a062-77392790da1f",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T16:08:31-04:00",
+      "created_date": "2020-10-02T17:15:12-04:00",
+      "published_date": "2020-10-02T17:15:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Restaurants",
+        "Waiters and Waitresses",
+        "Workplace Hazards and Violations",
+        "Labor and Jobs",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1251,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/lens/01nydine1/01nydine1-articleInline.jpg",
+          "format": "Normal",
+          "height": 116,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Restaurants adopted new safety protocols for indoor dining. Servers say that in recent weeks, though, customers have become more careless about masks and distancing.",
+          "copyright": "Andrew Kelly/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ESS9mi"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "Jim Murray, a Top Whiskey Critic, Faces Accusations of Sexism",
+      "abstract": "Several distillers and retailers have severed ties to the British writer, after complaints surfaced about the treatment of women in his books and at events.",
+      "url": "https://www.nytimes.com/2020/10/01/dining/drinks/jim-murray-whisky-sexism.html",
+      "uri": "nyt://article/8e53b7b5-fbb6-5901-9faa-ef84fff4fe4a",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T16:11:50-04:00",
+      "created_date": "2020-10-01T05:00:24-04:00",
+      "published_date": "2020-10-01T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Whiskey",
+        "Discrimination",
+        "Women and Girls",
+        "Jim Murray's Whisky Bible (Book)",
+        "Books and Literature",
+        "Sexual Harassment"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murray, Jim (1957- )",
+        "Paskin, Becky"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/merlin_177843276_e806d150-0fc9-47b3-b8ff-a210a11b5cdd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1435,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/merlin_177843276_e806d150-0fc9-47b3-b8ff-a210a11b5cdd-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        }
+      ],
+      "short_url": "https://nyti.ms/2HMPEDi"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "How to Read a Wine Label, in 12 Easy Lessons",
+      "abstract": "The wine shop can be intimidating, with so many different styles of labeling. Here\u2019s help in decoding a dozen basic types.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/drinks/read-wine-label.html",
+      "uri": "nyt://article/ac4fcaf7-e568-5698-a336-9778f408503a",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T22:48:59-04:00",
+      "created_date": "2020-09-28T12:33:16-04:00",
+      "published_date": "2020-09-28T12:33:16-04:00",
+      "material_type_facet": "",
+      "kicker": "The Pour",
+      "des_facet": [
+        "Wines",
+        "Grapes",
+        "Typography",
+        "Labeling and Labels (Product)",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/dining/28pour-illo1/28pour-illo1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1856,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/dining/28pour-illo1/28pour-illo1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/dining/28pour-illo1/28pour-illo1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/dining/28pour-illo1/28pour-illo1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/dining/28pour-illo1/28pour-illo1-articleInline.jpg",
+          "format": "Normal",
+          "height": 210,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alexandra Bowman"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kUTU1U"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "The 14 Best Cookbooks of Fall 2020",
+      "abstract": "Our favorite new books of the season, selected by Food reporters and editors from The New York Times.",
+      "url": "https://www.nytimes.com/2020/09/29/dining/best-cookbooks.html",
+      "uri": "nyt://article/cbdf06da-1d03-5197-b212-87b8d227a810",
+      "byline": "By The New York Times",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T13:18:44-04:00",
+      "created_date": "2020-09-29T10:26:14-04:00",
+      "published_date": "2020-09-29T10:26:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Bakeries and Baked Products",
+        "Restaurants",
+        "Black People",
+        "Pies",
+        "Chefs",
+        "Coconut & Sambal: Recipes From My Indonesian Kitchen (Book)",
+        "East: 120 Vegan and Vegetarian Recipes From Bangalore to Beijing (Book)",
+        "The Flavor Equation: The Science of Great Cooking Explained (Book)",
+        "Modern Comfort Food (Book)",
+        "Ottolenghi Flavor (Book)",
+        "The Rise: Black Cooks and the Soul of American Food (Book)",
+        "Xi'an Famous Foods: The Cuisine of Western China, From New York's Favorite Noodle Shop (Book)",
+        "Baking at the 20th Century Cafe: Iconic European Desserts From Linzer Torte to Honey Cake (Book)",
+        "Dessert Person: Recipes and Guidance for Baking With Confidence (Book)",
+        "A Good Bake: The Art and Science of Making Perfect Pastries, Cakes, Cookies, Pies and Breads at Home (Book)",
+        "The Good Book of Southern Baking: A Revival of Biscuits, Cakes, and Cornbread (Book)",
+        "Pie for Everyone: Recipes and Stories From Petee's Pie, New York's Best Pie Shop (Book)",
+        "Snacking Cakes: Simple Treats for Anytime Cravings (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Arefi, Yossy",
+        "Garten, Ina",
+        "Polzine, Michelle",
+        "Samuelsson, Marcus",
+        "Sodha, Meera",
+        "Sharma, Nik",
+        "Ottolenghi, Yotam",
+        "Weller, Melissa",
+        "Lee, Lara (Chef)",
+        "Belfrage, Ixta",
+        "Endolyn, Osayi",
+        "Wang, Jason (Chef)",
+        "Chou, Jessica K",
+        "Saffitz, Claire",
+        "Heddings, Kate",
+        "Fields, Kelly (Chef)",
+        "Paredez, Petra"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/30FALLCOOKBOOKS-COMBO/30FALLCOOKBOOKS-COMBO-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/30FALLCOOKBOOKS-COMBO/30FALLCOOKBOOKS-COMBO-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/30FALLCOOKBOOKS-COMBO/30FALLCOOKBOOKS-COMBO-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/30FALLCOOKBOOKS-COMBO/30FALLCOOKBOOKS-COMBO-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/30FALLCOOKBOOKS-COMBO/30FALLCOOKBOOKS-COMBO-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/36hS2Mo"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "Paris Chef Commits Suicide After Assault Allegations, Family Says",
+      "abstract": "Taku Sekine, 39, famous for his restaurants, Dersou and Cheval d\u2019Or, had faced recent accusations of sexual violence.",
+      "url": "https://www.nytimes.com/2020/09/30/world/europe/chef-Taku-Sekine.html",
+      "uri": "nyt://article/232219b5-5add-517a-921f-29d5d5b189b0",
+      "byline": "By Norimitsu Onishi",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:39:22-04:00",
+      "created_date": "2020-09-30T19:07:44-04:00",
+      "published_date": "2020-09-30T19:07:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Chefs",
+        "Suicides and Suicide Attempts",
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        "Dersou (Paris, France, Restaurant)",
+        "Cheval d'or (Paris, France, Restaurant)"
+      ],
+      "per_facet": [
+        "Sekine, Taku"
+      ],
+      "geo_facet": [
+        "Paris (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/world/30France-chef/merlin_106004434_d7f2761e-e1c8-412c-ac3d-1a58c8ace7b5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1412,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Taku Sekine at his restaurant Dersou in 2016.",
+          "copyright": "Damien Lafargue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/world/30France-chef/30France-chef-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Taku Sekine at his restaurant Dersou in 2016.",
+          "copyright": "Damien Lafargue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/world/30France-chef/30France-chef-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Taku Sekine at his restaurant Dersou in 2016.",
+          "copyright": "Damien Lafargue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/world/30France-chef/30France-chef-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Taku Sekine at his restaurant Dersou in 2016.",
+          "copyright": "Damien Lafargue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/world/30France-chef/merlin_106004434_d7f2761e-e1c8-412c-ac3d-1a58c8ace7b5-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Taku Sekine at his restaurant Dersou in 2016.",
+          "copyright": "Damien Lafargue for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30kr2Im"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "New York Dining Is Moving Indoors. How Nervous Should You Be?",
+      "abstract": "As dining rooms reopen, doctors, engineers and other experts assess the health risks and how restaurants can reduce them.",
+      "url": "https://www.nytimes.com/2020/09/29/dining/nyc-indoor-dining-coronavirus.html",
+      "uri": "nyt://article/cde1b540-a605-5496-ab6e-6a720b45ed82",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T13:07:33-04:00",
+      "created_date": "2020-09-29T12:03:07-04:00",
+      "published_date": "2020-09-29T12:03:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Restaurants",
+        "Coronavirus Risks and Safety Concerns",
+        "Masks",
+        "Bars and Nightclubs",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Jahangir, Alex",
+        "Rockwell, David (1956- )"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29nydine-indoor/29nydine-indoor-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In early August, the British government spent about $670 million subsidizing meals at restaurants like Hawksmoor Seven Dials, in London. After a flare-up of new Covid-19 cases, restrictions on dining were tightened again last week.",
+          "copyright": "Dylan Martinez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29nydine-indoor/29nydine-indoor-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In early August, the British government spent about $670 million subsidizing meals at restaurants like Hawksmoor Seven Dials, in London. After a flare-up of new Covid-19 cases, restrictions on dining were tightened again last week.",
+          "copyright": "Dylan Martinez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29nydine-indoor/29nydine-indoor-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In early August, the British government spent about $670 million subsidizing meals at restaurants like Hawksmoor Seven Dials, in London. After a flare-up of new Covid-19 cases, restrictions on dining were tightened again last week.",
+          "copyright": "Dylan Martinez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29nydine-indoor/29nydine-indoor-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In early August, the British government spent about $670 million subsidizing meals at restaurants like Hawksmoor Seven Dials, in London. After a flare-up of new Covid-19 cases, restrictions on dining were tightened again last week.",
+          "copyright": "Dylan Martinez/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29nydine-indoor/29nydine-indoor-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In early August, the British government spent about $670 million subsidizing meals at restaurants like Hawksmoor Seven Dials, in London. After a flare-up of new Covid-19 cases, restrictions on dining were tightened again last week.",
+          "copyright": "Dylan Martinez/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cGY1eP"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "A Spread Worthy of Royalty",
+      "abstract": "Banchan, the small dishes that often accompany a Korean meal, should be treasured in their own right.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/banchan-recipes.html",
+      "uri": "nyt://article/3f33f57b-4a73-5b94-af07-c6de3f8b5ffd",
+      "byline": "By Eric Kim",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T12:58:00-04:00",
+      "created_date": "2020-09-28T13:24:02-04:00",
+      "published_date": "2020-09-28T13:24:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Korean Food (Cuisine)",
+        "Vegetables",
+        "Kimchi (South Korean Food)",
+        "Meat",
+        "Rice"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28banchan1/merlin_177434103_0ac7a41a-c836-4035-9612-5de18aae6da5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most restaurants serve banchan on the house, as a gesture of hospitality. At home, making banchan is a cumulative endeavor.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28banchan1/28banchan1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most restaurants serve banchan on the house, as a gesture of hospitality. At home, making banchan is a cumulative endeavor.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28banchan1/28banchan1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most restaurants serve banchan on the house, as a gesture of hospitality. At home, making banchan is a cumulative endeavor.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28banchan1/merlin_177434103_0ac7a41a-c836-4035-9612-5de18aae6da5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most restaurants serve banchan on the house, as a gesture of hospitality. At home, making banchan is a cumulative endeavor.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28banchan1/merlin_177434103_0ac7a41a-c836-4035-9612-5de18aae6da5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Most restaurants serve banchan on the house, as a gesture of hospitality. At home, making banchan is a cumulative endeavor.",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3ievP4a"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Shaun Hergatt Opens Vestry",
+      "abstract": "A Filipino restaurant in the East Village, an ode to Southern France in the Rockaways, and more restaurant news.",
+      "url": "https://www.nytimes.com/2020/09/29/dining/nyc-restaurant-openings.html",
+      "uri": "nyt://article/55fc5985-2e56-541e-a7c3-b2623dc90574",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T14:00:57-04:00",
+      "created_date": "2020-09-29T14:00:57-04:00",
+      "published_date": "2020-09-29T14:00:57-04:00",
+      "material_type_facet": "",
+      "kicker": "off the menu",
+      "des_facet": [
+        "Restaurants"
+      ],
+      "org_facet": [
+        "Odo (Manhattan, NY, Restaurant)",
+        "Amali (Manhattan, NY, Restaurant)",
+        "Vestry (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29off/merlin_177551556_cc7b602c-cd9e-48fd-9e71-9210d62dd641-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Shaun Hergatt at his latest, Vestry.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29off/29off-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Shaun Hergatt at his latest, Vestry.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29off/29off-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Shaun Hergatt at his latest, Vestry.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29off/29off-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Shaun Hergatt at his latest, Vestry.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/29off/merlin_177551556_cc7b602c-cd9e-48fd-9e71-9210d62dd641-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The chef Shaun Hergatt at his latest, Vestry.",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30gsdZe"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "A Study in the Subtleties of Northern Rh\u00f4ne Terroirs",
+      "abstract": "What does a comparison of three bottles from different appellations reveal? Conclusive proof of the power of place is hard to determine.",
+      "url": "https://www.nytimes.com/2020/09/03/dining/drinks/wine-school-assignment-northern-rhone-reds.html",
+      "uri": "nyt://article/a19a09a9-0969-5d2b-bc78-516714b70248",
+      "byline": "By Eric Asimov",
+      "item_type": "Article",
+      "updated_date": "2020-09-09T00:40:00-04:00",
+      "created_date": "2020-09-03T12:28:24-04:00",
+      "published_date": "2020-09-03T12:28:24-04:00",
+      "material_type_facet": "",
+      "kicker": "Wine School",
+      "des_facet": [
+        "Wines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Rhone Valley (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/dining/09Next/09Next-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/dining/09Next/09Next-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/dining/09Next/09Next-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/dining/09Next/09Next-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/09/dining/09Next/09Next-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Z3DVWS"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Sourdough Is Just the Beginning at B\u00e2tard",
+      "abstract": "The TriBeCa restaurant sells a small line of baked goods, from sourdough to chocolate chip cookies.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/batard-bread.html",
+      "uri": "nyt://article/2352a225-45b5-5b5a-a51c-36b2832c2b9c",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:26:14-04:00",
+      "created_date": "2020-10-05T20:26:14-04:00",
+      "published_date": "2020-10-05T20:26:14-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Bakeries and Baked Products"
+      ],
+      "org_facet": [
+        "Batard (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [
+        "Glocker, Marcus"
+      ],
+      "geo_facet": [
+        "TriBeCa (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-bake/merlin_177967656_1bbba3ca-daf1-4fc7-9150-5648e75d963e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Cordero with some of the breads he bakes for B\u00e2tard.",
+          "copyright": "Joel Goldberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-bake/merlin_177967656_1bbba3ca-daf1-4fc7-9150-5648e75d963e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Cordero with some of the breads he bakes for B\u00e2tard.",
+          "copyright": "Joel Goldberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-bake/merlin_177967656_1bbba3ca-daf1-4fc7-9150-5648e75d963e-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Cordero with some of the breads he bakes for B\u00e2tard.",
+          "copyright": "Joel Goldberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-bake/merlin_177967656_1bbba3ca-daf1-4fc7-9150-5648e75d963e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Cordero with some of the breads he bakes for B\u00e2tard.",
+          "copyright": "Joel Goldberg for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-bake/merlin_177967656_1bbba3ca-daf1-4fc7-9150-5648e75d963e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Cordero with some of the breads he bakes for B\u00e2tard.",
+          "copyright": "Joel Goldberg for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34HQ7i3"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Goat Milk Caramel to Swirl Over Ice Cream or Into Coffee",
+      "abstract": "Table Mountain sells four flavors of rich caramel from its farm near Boulder, Colo.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/goat-milk-caramel-table-mountain-farm.html",
+      "uri": "nyt://article/cf3fa7a8-faa7-598b-a23d-a27e3c4d25d6",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:45:55-04:00",
+      "created_date": "2020-10-05T20:45:55-04:00",
+      "published_date": "2020-10-05T20:45:55-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Condiments",
+        "Goats",
+        "Dairy Products"
+      ],
+      "org_facet": [
+        "Table Mountain Farm"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Boulder (Colo)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-goat/05Burner-goat-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 682,
+          "width": 750,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Hofert at Max Hofert Design."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-goat/05Burner-goat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Hofert at Max Hofert Design."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-goat/05Burner-goat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Hofert at Max Hofert Design."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-goat/05Burner-goat-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Hofert at Max Hofert Design."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-goat/05Burner-goat-articleInline.jpg",
+          "format": "Normal",
+          "height": 173,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Max Hofert at Max Hofert Design."
+        }
+      ],
+      "short_url": "https://nyti.ms/2F7kg1m"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Add Light to Your Table",
+      "abstract": "These woodsy tea light holders bring a bit of seasonality wherever they are used.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/birch-tea-lights.html",
+      "uri": "nyt://article/d7635ffb-5858-5e6c-aa55-d3d224865afc",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:33:33-04:00",
+      "created_date": "2020-10-05T20:33:33-04:00",
+      "published_date": "2020-10-05T20:33:33-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Tableware"
+      ],
+      "org_facet": [
+        "Paper Trail (Rhineback, NY, Retailer)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/07Burner-Pine-a/merlin_177911109_3ff6aec7-90b1-4c09-a768-eebc7886d833-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1500,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/07Burner-Pine-a/merlin_177911109_3ff6aec7-90b1-4c09-a768-eebc7886d833-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/07Burner-Pine-a/merlin_177911109_3ff6aec7-90b1-4c09-a768-eebc7886d833-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/07Burner-Pine-a/merlin_177911109_3ff6aec7-90b1-4c09-a768-eebc7886d833-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/07Burner-Pine-a/merlin_177911109_3ff6aec7-90b1-4c09-a768-eebc7886d833-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3jCSf0K"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "An Italian Spritz Without the Buzz",
+      "abstract": "Lyre\u2019s latest nonalcoholic spirit is Italian Spritz, which shines with a splash of soda and an orange slice.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/lyres-italian-spritz-nonalcoholic-spirit.html",
+      "uri": "nyt://article/48b65da3-806a-540b-8d51-48bf6d6b4d5a",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:25:17-04:00",
+      "created_date": "2020-10-05T20:25:17-04:00",
+      "published_date": "2020-10-05T20:25:17-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Cocktails and Mixed Drinks"
+      ],
+      "org_facet": [
+        "Lyre's Spirit Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Australia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-lyre/merlin_177948099_a6c442c6-862b-4c98-851a-6ae8f6ba9904-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 972,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lyre&rsquo;s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-lyre/05burner-lyre-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lyre&rsquo;s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-lyre/05burner-lyre-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lyre&rsquo;s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-lyre/05burner-lyre-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lyre&rsquo;s"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-lyre/merlin_177948099_a6c442c6-862b-4c98-851a-6ae8f6ba9904-articleInline.jpg",
+          "format": "Normal",
+          "height": 401,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lyre&rsquo;s"
+        }
+      ],
+      "short_url": "https://nyti.ms/34uQRXl"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Paying Tribute to Pierre Troisgros",
+      "abstract": "Caf\u00e9 D\u2019Alsace on the Upper East Side of Manhattan has added salmon in sorrel sauce to its menu, along with other dishes made famous by the French chef, who died last month.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/cafe-dalsace-nyc-troisgros-menu.html",
+      "uri": "nyt://article/c2fb7080-1ab1-52b0-8c35-9d154373b83a",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:19:57-04:00",
+      "created_date": "2020-10-05T20:19:57-04:00",
+      "published_date": "2020-10-05T20:19:57-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Restaurants"
+      ],
+      "org_facet": [
+        "Cafe D'Alsace (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [
+        "Troisgros, Pierre"
+      ],
+      "geo_facet": [
+        "Upper East Side (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-cafe/merlin_177856701_aa5a0975-655e-4d4f-aac2-b6a9b5606ea3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 626,
+          "width": 630,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cafe D'Alsace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-cafe/merlin_177856701_aa5a0975-655e-4d4f-aac2-b6a9b5606ea3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cafe D'Alsace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-cafe/merlin_177856701_aa5a0975-655e-4d4f-aac2-b6a9b5606ea3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cafe D'Alsace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-cafe/05Burner-cafe-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cafe D'Alsace"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05Burner-cafe/merlin_177856701_aa5a0975-655e-4d4f-aac2-b6a9b5606ea3-articleInline.jpg",
+          "format": "Normal",
+          "height": 189,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Cafe D'Alsace"
+        }
+      ],
+      "short_url": "https://nyti.ms/36CpBsW"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "A Taste of Berlin in Your Home",
+      "abstract": "Kotti Berliner D\u00f6ner Kebab, with several locations in Brooklyn, now sells its sandwiches as kits, to feed three to six.",
+      "url": "https://www.nytimes.com/2020/10/05/dining/kotti-berliner-doner-kebab.html",
+      "uri": "nyt://article/e200b21e-e68c-5144-a77b-8e7c4112067c",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T20:12:39-04:00",
+      "created_date": "2020-10-05T20:12:39-04:00",
+      "published_date": "2020-10-05T20:12:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Restaurants"
+      ],
+      "org_facet": [
+        "Kotti Berliner Doner Kebab (Brooklyn, NY, restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Berlin (Germany)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-kebab/merlin_177948402_77e83ba7-18d9-4b08-89df-5e3beb6eb6ce-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1229,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Baldor Food"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-kebab/05burner-kebab-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Baldor Food"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-kebab/05burner-kebab-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Baldor Food"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-kebab/05burner-kebab-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Baldor Food"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05burner-kebab/merlin_177948402_77e83ba7-18d9-4b08-89df-5e3beb6eb6ce-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Baldor Food"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lex7y8"
+    },
+    {
+      "section": "obituaries",
+      "subsection": "",
+      "title": "James Helferich, Artist in the Food World and Prison Chef, Dies at 75",
+      "abstract": "A classically trained cook, Mr. Helferich worked at marine theme parks in Florida, enthralling his co-workers with his skill as an ice and butter sculptor. He died of the novel coronavirus.",
+      "url": "https://www.nytimes.com/2020/10/05/obituaries/james-helferich-dead-coronavirus.html",
+      "uri": "nyt://article/63e2c401-6e10-54ab-a6c3-975af5845701",
+      "byline": "By Penelope Green",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T12:46:45-04:00",
+      "created_date": "2020-10-05T12:46:45-04:00",
+      "published_date": "2020-10-05T12:46:45-04:00",
+      "material_type_facet": "",
+      "kicker": "Those We\u2019ve Lost",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Coronavirus (2019-nCoV)",
+        "Cooking and Cookbooks",
+        "Amusement and Theme Parks"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Helferich, James (1944-2020)"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Helferich/merlin_177958644_5aaf34cd-b070-4c11-9011-70f1bd04ec7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 625,
+          "width": 831,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Helferich was a master creater of ice and butter sculptures when he worked in the hospitality business. He later had a stint as a food services director for a Florida prison. He is shown with his daughter, Jessica.",
+          "copyright": "via Helferich family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Helferich/02Helferich-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Helferich was a master creater of ice and butter sculptures when he worked in the hospitality business. He later had a stint as a food services director for a Florida prison. He is shown with his daughter, Jessica.",
+          "copyright": "via Helferich family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Helferich/02Helferich-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Helferich was a master creater of ice and butter sculptures when he worked in the hospitality business. He later had a stint as a food services director for a Florida prison. He is shown with his daughter, Jessica.",
+          "copyright": "via Helferich family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Helferich/merlin_177958644_5aaf34cd-b070-4c11-9011-70f1bd04ec7a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Helferich was a master creater of ice and butter sculptures when he worked in the hospitality business. He later had a stint as a food services director for a Florida prison. He is shown with his daughter, Jessica.",
+          "copyright": "via Helferich family"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Helferich/merlin_177958644_5aaf34cd-b070-4c11-9011-70f1bd04ec7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Helferich was a master creater of ice and butter sculptures when he worked in the hospitality business. He later had a stint as a food services director for a Florida prison. He is shown with his daughter, Jessica.",
+          "copyright": "via Helferich family"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ngz9Q6"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What Have You Cooked?",
+      "abstract": "Maybe you\u2019ve been recording the meals that make up this quarantine. If not, won\u2019t you join us in doing so?",
+      "url": "https://www.nytimes.com/2020/10/05/dining/what-have-you-cooked.html",
+      "uri": "nyt://article/35ee5e05-49d9-5f17-9990-c31e3d474a19",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T10:30:00-04:00",
+      "created_date": "2020-10-05T10:30:00-04:00",
+      "published_date": "2020-10-05T10:30:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1337,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Amy Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Amy Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Amy Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Amy Wilson."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2017/10/08/magazine/08ondessert/08ondessert-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gentl and Hyers for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Amy Wilson."
+        }
+      ],
+      "short_url": "https://nyti.ms/2SvkuCl"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Week",
+      "abstract": "It\u2019s important to cook, wherever you are, and whatever you\u2019re experiencing. Here are a few recipes to help.",
+      "url": "https://www.nytimes.com/2020/10/04/dining/what-to-cook-this-week.html",
+      "uri": "nyt://article/02713ea8-85fd-5525-a7a8-16f076cd4c5a",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T12:18:33-04:00",
+      "created_date": "2020-10-04T10:30:01-04:00",
+      "published_date": "2020-10-04T10:30:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/dining/mc-polenta/merlin_177006099_a9945892-2260-45fe-877e-055745f3ebdb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/dining/mc-polenta/merlin_177006099_a9945892-2260-45fe-877e-055745f3ebdb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/dining/mc-polenta/merlin_177006099_a9945892-2260-45fe-877e-055745f3ebdb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/dining/mc-polenta/merlin_177006099_a9945892-2260-45fe-877e-055745f3ebdb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/17/dining/mc-polenta/merlin_177006099_a9945892-2260-45fe-877e-055745f3ebdb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/3issMFS"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Warm Up With Cider Cocktails",
+      "abstract": "With fresh or hard cider on hand, you have the makings of all sorts of drinks.",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/cider-cocktails.html",
+      "uri": "nyt://article/da7f3d27-f29a-5c98-abbb-0ecb3d82a95f",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T23:59:07-04:00",
+      "created_date": "2020-10-03T23:59:07-04:00",
+      "published_date": "2020-10-03T23:59:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Apples",
+        "Cider",
+        "Alcoholic Beverages",
+        "Cocktails and Mixed Drinks",
+        "Recipes",
+        "Spices",
+        "Bourbon (Whiskey)",
+        "Whiskey",
+        "Sherry (Wine)",
+        "Cinnamon (Spice)",
+        "Quarantine (Life and Culture)",
+        "The Ladies' Village Improvement Society Cookbook: Eating and Entertaining in East Hampton (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mulled apple cider cocktails",
+          "copyright": "Liz Clayman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mulled apple cider cocktails",
+          "copyright": "Liz Clayman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mulled apple cider cocktails",
+          "copyright": "Liz Clayman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mulled apple cider cocktails",
+          "copyright": "Liz Clayman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mulled apple cider cocktails",
+          "copyright": "Liz Clayman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cUOGAi"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "This One-Pan Orzo With Feta Is #1",
+      "abstract": "The most popular recipes of the week.",
+      "url": "https://www.nytimes.com/2020/10/03/dining/top-ten-dishes.html",
+      "uri": "nyt://article/d06e17fb-caa1-5a2c-b2b6-6538204e9893",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T11:38:20-04:00",
+      "created_date": "2020-10-03T10:30:01-04:00",
+      "published_date": "2020-10-03T10:30:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/25apperex/merlin_177433971_bdf5bb41-0f74-45ae-8526-1d77b3ed18f4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/25apperex/25apperex-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/25apperex/25apperex-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/25apperex/merlin_177433971_bdf5bb41-0f74-45ae-8526-1d77b3ed18f4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/25apperex/merlin_177433971_bdf5bb41-0f74-45ae-8526-1d77b3ed18f4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/2Sq0UaN"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "When Waking Life Feels Like a Dream",
+      "abstract": "How do you interpret it?",
+      "url": "https://www.nytimes.com/2020/10/02/at-home/newsletter.html",
+      "uri": "nyt://article/7e99ac29-0433-5187-8fc5-f78f56a35f8a",
+      "byline": "By Melissa Kirsch",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T16:01:50-04:00",
+      "created_date": "2020-10-02T16:00:09-04:00",
+      "published_date": "2020-10-02T16:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "At Home Newsletter",
+      "des_facet": [
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-Cover/27ah-Cover-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1413,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gaurab Thakali"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-Cover/27ah-Cover-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gaurab Thakali"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-Cover/27ah-Cover-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gaurab Thakali"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-Cover/27ah-Cover-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gaurab Thakali"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-Cover/27ah-Cover-articleInline.jpg",
+          "format": "Normal",
+          "height": 276,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gaurab Thakali"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Snrn8Y"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Salty-Sweet Chicken",
+      "abstract": "Rick A. Martinez\u2019s weeknight chicken Marbella is an exceptionally good dinner.",
+      "url": "https://www.nytimes.com/2020/10/02/dining/salty-sweet-chicken.html",
+      "uri": "nyt://article/acdc6976-1cfc-5980-b640-76f23f52da75",
+      "byline": "By Emily Weinstein",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T05:54:45-04:00",
+      "created_date": "2020-10-02T12:30:04-04:00",
+      "published_date": "2020-10-02T12:30:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Content Type: Service",
+        "Recipes"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/dining/rm-chicken-marbella/rm-chicken-marbella-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1529,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/dining/rm-chicken-marbella/rm-chicken-marbella-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/dining/rm-chicken-marbella/rm-chicken-marbella-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/dining/rm-chicken-marbella/rm-chicken-marbella-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/dining/rm-chicken-marbella/rm-chicken-marbella-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Malosh for The New York Times. Food Stylist: Simon Andrews."
+        }
+      ],
+      "short_url": "https://nyti.ms/2HIT35U"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "What to Cook This Weekend",
+      "abstract": "Break the monotony of the last six months with Gabrielle Hamilton\u2019s latest, salt-baked new potatoes.",
+      "url": "https://www.nytimes.com/2020/10/02/dining/what-to-cook-this-weekend.html",
+      "uri": "nyt://article/1e281c2f-d4e9-50b4-9e58-c337fd67375f",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T12:36:50-04:00",
+      "created_date": "2020-10-02T10:30:01-04:00",
+      "published_date": "2020-10-02T10:30:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat-copy/04mag-Eat-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1541,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat-copy/04mag-Eat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat-copy/04mag-Eat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat-copy/04mag-Eat-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat-copy/04mag-Eat-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        }
+      ],
+      "short_url": "https://nyti.ms/3cOqIXu"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "When Invasive Species Become the Meal",
+      "abstract": "Is dining on nature\u2019s predators an act of environmentalism \u2014 or just a new way for humans to bend the world to our will?",
+      "url": "https://www.nytimes.com/2020/10/02/t-magazine/eating-invasive-species.html",
+      "uri": "nyt://article/2da5d532-de12-5fce-b494-41dc18cb8a57",
+      "byline": "By Ligaya Mishan and Kyoko Hamada",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T18:25:48-04:00",
+      "created_date": "2020-10-02T09:00:11-04:00",
+      "published_date": "2020-10-02T09:00:11-04:00",
+      "material_type_facet": "",
+      "kicker": "Food Matters",
+      "des_facet": [
+        "Conservation of Resources",
+        "Wildlife Die-Offs",
+        "Cooking and Cookbooks",
+        "Invasive Species",
+        "Oceans and Seas"
+      ],
+      "org_facet": [
+        "National Oceanic and Atmospheric Administration",
+        "World Health Organization"
+      ],
+      "per_facet": [
+        "Lai, Bun",
+        "Thomas, Robert A"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/t-magazine/02tmag-invasive-slide-53W9/02tmag-invasive-slide-53W9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1200,
+          "width": 1500,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For around a century, Japanese beetles have destroyed grasses, leaves and other plant life throughout the United States.",
+          "copyright": "Kyoko Hamada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/t-magazine/02tmag-invasive-slide-53W9/02tmag-invasive-slide-53W9-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For around a century, Japanese beetles have destroyed grasses, leaves and other plant life throughout the United States.",
+          "copyright": "Kyoko Hamada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/t-magazine/02tmag-invasive-slide-53W9/02tmag-invasive-slide-53W9-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For around a century, Japanese beetles have destroyed grasses, leaves and other plant life throughout the United States.",
+          "copyright": "Kyoko Hamada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/t-magazine/02tmag-invasive-slide-53W9/02tmag-invasive-slide-53W9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For around a century, Japanese beetles have destroyed grasses, leaves and other plant life throughout the United States.",
+          "copyright": "Kyoko Hamada"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/t-magazine/02tmag-invasive-slide-53W9/02tmag-invasive-slide-53W9-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For around a century, Japanese beetles have destroyed grasses, leaves and other plant life throughout the United States.",
+          "copyright": "Kyoko Hamada"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Grxt5x"
+    },
+    {
+      "section": "t-magazine",
+      "subsection": "",
+      "title": "The T List: Five Things We Recommend This Week",
+      "abstract": "JW Anderson x Moncler, perfume for the home \u2014 and more.",
+      "url": "https://www.nytimes.com/2020/10/01/t-magazine/jw-anderson-moncler-moringa.html",
+      "uri": "nyt://article/ca17e312-b207-5307-9768-20ce1443986b",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T09:00:06-04:00",
+      "created_date": "2020-10-01T09:00:06-04:00",
+      "published_date": "2020-10-01T09:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Sculpture",
+        "Perfumes and Fragrances",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [
+        "Moncler (Fashion Label)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Paris (France)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: a bedroom at\u00a0Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+          "copyright": "Benoit Linero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: a bedroom at\u00a0Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+          "copyright": "Benoit Linero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: a bedroom at\u00a0Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+          "copyright": "Benoit Linero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: a bedroom at\u00a0Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+          "copyright": "Benoit Linero"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: a bedroom at\u00a0Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+          "copyright": "Benoit Linero"
+        }
+      ],
+      "short_url": "https://nyti.ms/36lCQOj"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "Spend Some Time With Your Pandemic Logbooks",
+      "abstract": "A peek into the lives of readers at home.",
+      "url": "https://www.nytimes.com/2020/09/30/at-home/newsletter.html",
+      "uri": "nyt://article/aafa9c30-9972-5478-a303-64fbbe7c7256",
+      "byline": "By Melissa Kirsch",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T16:00:04-04:00",
+      "created_date": "2020-09-30T16:00:04-04:00",
+      "published_date": "2020-09-30T16:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "At Home Newsletter",
+      "des_facet": [
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34bjDwi"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Credit Where It\u2019s Due",
+      "abstract": "We\u2019ve made some changes to how our recipes are presented.",
+      "url": "https://www.nytimes.com/2020/09/30/dining/credit-where-its-due.html",
+      "uri": "nyt://article/ce69d844-2639-5d9e-a569-fa0b90ce8f8f",
+      "byline": "By Sam Sifton",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T12:26:26-04:00",
+      "created_date": "2020-09-30T10:30:01-04:00",
+      "published_date": "2020-09-30T10:30:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cooking and Cookbooks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marcus Nilsson for The New York Times. Food Stylist: Brian Preston-Campbell. Prop Stylist: Angharad Bailey."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1569,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marcus Nilsson for The New York Times. Food Stylist: Brian Preston-Campbell. Prop Stylist: Angharad Bailey."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-articleInline.jpg",
+          "format": "Normal",
+          "height": 146,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marcus Nilsson for The New York Times. Food Stylist: Brian Preston-Campbell. Prop Stylist: Angharad Bailey."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marcus Nilsson for The New York Times. Food Stylist: Brian Preston-Campbell. Prop Stylist: Angharad Bailey."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/04/03/dining/Cucumber-Kimchi/Cucumber-Kimchi-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marcus Nilsson for The New York Times. Food Stylist: Brian Preston-Campbell. Prop Stylist: Angharad Bailey."
+        }
+      ],
+      "short_url": "https://nyti.ms/30n8MOz"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Buried in Salt, These Potatoes Are a Joy to Eat",
+      "abstract": "Crack the crust tableside to reveal its mysterious contents; the delight will be palpable.",
+      "url": "https://www.nytimes.com/2020/09/30/magazine/salt-baked-potatoes-recipe.html",
+      "uri": "nyt://article/603c8df3-b766-551c-b48e-51914460c0c0",
+      "byline": "By Gabrielle Hamilton",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T05:54:43-04:00",
+      "created_date": "2020-09-30T05:02:25-04:00",
+      "published_date": "2020-09-30T05:02:25-04:00",
+      "material_type_facet": "",
+      "kicker": "Eat ",
+      "des_facet": [
+        "Potatoes",
+        "Cooking and Cookbooks",
+        "Cicadas (Insects)",
+        "Salt"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat/04mag-Eat-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1541,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat/04mag-Eat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat/04mag-Eat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat/04mag-Eat-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/magazine/04mag-Eat/04mag-Eat-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Salt-baked new potatoes are fun to serve and delicious to eat.",
+          "copyright": "Photograph by Heami Lee. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky."
+        }
+      ],
+      "short_url": "https://nyti.ms/3ifiwk0"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "The Pandemic Logs",
+      "abstract": "Snapshots of life at home during the pandemic.",
+      "url": "https://www.nytimes.com/2020/09/29/at-home/the-pandemic-logs.html",
+      "uri": "nyt://article/c091507b-30f3-5d3c-b07b-fdcf331d394d",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T16:57:22-04:00",
+      "created_date": "2020-09-29T14:52:44-04:00",
+      "published_date": "2020-09-29T14:52:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/multimedia/00athome-feature-promo/00athome-feature-promo-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A submission from The Pandemic Logs.",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34dv1HO"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Spotting the Risks of Indoor Dining",
+      "abstract": "Experts suggest signs to look for, and situations to avoid, as restaurants reopen.",
+      "url": "https://www.nytimes.com/2020/09/29/dining/indoor-dining-safety.html",
+      "uri": "nyt://article/fb1fe3d5-7943-54d3-ad72-1bac6df49bc5",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T16:02:13-04:00",
+      "created_date": "2020-09-29T12:03:52-04:00",
+      "published_date": "2020-09-29T12:03:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Masks",
+        "Restaurants",
+        "Coronavirus (2019-nCoV)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/lens/29nydine-safe1/merlin_176693616_fd2b4e3f-5511-4d4d-ae41-91cb8b386a0e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dinner service at Peter Luger\u2019s Steakhouse in Great Neck, N.Y., earlier this month.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/lens/29nydine-safe1/29nydine-safe1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dinner service at Peter Luger\u2019s Steakhouse in Great Neck, N.Y., earlier this month.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/lens/29nydine-safe1/29nydine-safe1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dinner service at Peter Luger\u2019s Steakhouse in Great Neck, N.Y., earlier this month.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/lens/29nydine-safe1/29nydine-safe1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dinner service at Peter Luger\u2019s Steakhouse in Great Neck, N.Y., earlier this month.",
+          "copyright": "Johnny Milano for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/lens/29nydine-safe1/merlin_176693616_fd2b4e3f-5511-4d4d-ae41-91cb8b386a0e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dinner service at Peter Luger\u2019s Steakhouse in Great Neck, N.Y., earlier this month.",
+          "copyright": "Johnny Milano for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33icafL"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Mandelbrot by Way of Florida",
+      "abstract": "Michael\u2019s Mandel Bread, a once-baked chocolate chip treat, was perfected in Miami.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/michaels-mandel-bread.html",
+      "uri": "nyt://article/cd939707-a2d4-53ef-9a5a-f28f60a73ffa",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T01:15:36-04:00",
+      "created_date": "2020-09-28T23:01:16-04:00",
+      "published_date": "2020-09-28T23:01:16-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Bakeries and Baked Products"
+      ],
+      "org_facet": [
+        "Michael's Mandel Bread LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Miami (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-mandel/28burner-mandel-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Pertnoy and Michael Reiss sell Michael\u2019s Mandel Bread, a softer mandelbrot.\u00a0",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-mandel/28burner-mandel-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Pertnoy and Michael Reiss sell Michael\u2019s Mandel Bread, a softer mandelbrot.\u00a0",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-mandel/28burner-mandel-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Pertnoy and Michael Reiss sell Michael\u2019s Mandel Bread, a softer mandelbrot.\u00a0",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-mandel/28burner-mandel-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Pertnoy and Michael Reiss sell Michael\u2019s Mandel Bread, a softer mandelbrot.\u00a0",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-mandel/28burner-mandel-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Pertnoy and Michael Reiss sell Michael\u2019s Mandel Bread, a softer mandelbrot.\u00a0",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kWllZ7"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "A Throwback Beer Returns to New York",
+      "abstract": "Schaefer Beer, once a favorite of Brooklyn Dodgers fans at Ebbets Field, has been reformulated and updated for the 21st century.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/schaefer-beer.html",
+      "uri": "nyt://article/49d38f20-d9ae-5ce4-b9aa-d42486d837d5",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T01:16:29-04:00",
+      "created_date": "2020-09-28T22:29:06-04:00",
+      "published_date": "2020-09-28T22:29:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Beer"
+      ],
+      "org_facet": [
+        "Pabst Brewing Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Utica (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-beer/28burner-beer-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-beer/28burner-beer-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-beer/28burner-beer-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-beer/28burner-beer-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-beer/28burner-beer-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cCj02C"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Italian Truckers Love It, and You Will, Too",
+      "abstract": "Coppiette, a pork jerky of sorts, is now being made by an Indianapolis smokehouse, Smoking Goose.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/coppiette-pork-jerky.html",
+      "uri": "nyt://article/823a20cc-246a-5881-8bd2-37c8cec520c0",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T01:16:01-04:00",
+      "created_date": "2020-09-28T22:28:03-04:00",
+      "published_date": "2020-09-28T22:28:03-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Pork"
+      ],
+      "org_facet": [
+        "Smoking Goose LLC"
+      ],
+      "per_facet": [
+        "Jenkins, Steven W"
+      ],
+      "geo_facet": [
+        "Rome (Italy)",
+        "Indianapolis (Ind)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-jerk/28burner-jerk-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Sims"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-jerk/28burner-jerk-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Sims"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-jerk/28burner-jerk-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Sims"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-jerk/28burner-jerk-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Sims"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-jerk/28burner-jerk-articleInline.jpg",
+          "format": "Normal",
+          "height": 253,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michelle Sims"
+        }
+      ],
+      "short_url": "https://nyti.ms/33d5ore"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Sunday Suppers and So Much More",
+      "abstract": "The chef Joey Campanaro\u2019s \u2018Big Love Cooking\u2019 spreads the joy of Italian-American meals, South Philly style.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/big-love-cooking-joey-campanaro.html",
+      "uri": "nyt://article/5093b20d-c4bc-57a0-8ccc-23f93d7603ed",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T01:17:23-04:00",
+      "created_date": "2020-09-28T22:27:05-04:00",
+      "published_date": "2020-09-28T22:27:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Italian-Americans",
+        "Italian Food (Cuisine)",
+        "Big Love Cooking: 75 Recipes for Satisfying, Shareable Comfort Food (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Campanaro, Joey"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-book/28burner-book-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1495,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Con Poulos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-book/28burner-book-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Con Poulos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-book/28burner-book-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Con Poulos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-book/28burner-book-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Con Poulos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-book/28burner-book-articleInline.jpg",
+          "format": "Normal",
+          "height": 260,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Con Poulos"
+        }
+      ],
+      "short_url": "https://nyti.ms/3joJAyw"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Bean-to-Bar Maker Turns to Truffles",
+      "abstract": "Dandelion Chocolate now makes truffles filled with ganache, from five different cocoa beans.",
+      "url": "https://www.nytimes.com/2020/09/28/dining/dandelion-chocolate-single-origin-truffle.html",
+      "uri": "nyt://article/320c7c90-eb15-53e7-a22e-70fb3c546c2b",
+      "byline": "By Florence Fabricant",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T15:44:07-04:00",
+      "created_date": "2020-09-28T22:22:39-04:00",
+      "published_date": "2020-09-28T22:22:39-04:00",
+      "material_type_facet": "",
+      "kicker": "Front Burner",
+      "des_facet": [
+        "Chocolate"
+      ],
+      "org_facet": [
+        "Dandelion Chocolate"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "San Francisco (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-chocolate1/28burner-chocolate1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nick Katkov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-chocolate1/28burner-chocolate1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nick Katkov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-chocolate1/28burner-chocolate1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nick Katkov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-chocolate1/28burner-chocolate1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nick Katkov"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/dining/28burner-chocolate1/28burner-chocolate1-articleInline.jpg",
+          "format": "Normal",
+          "height": 238,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nick Katkov"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Hyaje4"
+    }
+  ]
+}

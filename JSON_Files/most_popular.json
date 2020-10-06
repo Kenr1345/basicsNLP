@@ -1,0 +1,1189 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/4b133845-70a5-5dfe-ad75-f3dee2776238",
+      "url": "https://www.nytimes.com/2020/10/03/us/politics/trump-covid-updates.html",
+      "id": 100000007376239,
+      "asset_id": 100000007376239,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-04 19:58:27",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);Remdesivir (Drug);Presidential Election of 2020;Appointments and Executive Changes;United States Politics and Government;Trump, Donald J;Conley, Sean Patrick;Meadows, Mark R (1959- );Barrett, Amy Coney;Reed, Walter, National Military Medical Center;Republican Party;Senate;Supreme Court (US)",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump\u2019s Symptoms Described as \u2018Very Concerning\u2019 Even as Doctors Offer Rosier Picture",
+      "abstract": "The president\u2019s medical team refused to provide critical details and left open the impression that he was known to be sick a day earlier than previously reported, forcing them to backtrack later.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Remdesivir (Drug)",
+        "Presidential Election of 2020",
+        "Appointments and Executive Changes",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center",
+        "Republican Party",
+        "Senate",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick",
+        "Meadows, Mark R (1959- )",
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A team of doctors reported on the condition of President Trump at Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a8861dc1-855d-5d8a-b21c-bb643ad52086",
+      "url": "https://www.nytimes.com/2020/10/04/nyregion/nyc-covid-shutdown-zip-codes.html",
+      "id": 100000007377113,
+      "asset_id": 100000007377113,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 16:36:09",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Coronavirus (2019-nCoV);Shutdowns (Institutional);Quarantines;Education (K-12);Disease Rates;de Blasio, Bill;New York City;Brooklyn (NYC);Queens (NYC)",
+      "column": null,
+      "byline": "By Dana Rubinstein, Daniel E. Slotnik, Eliza Shapiro and Liam Stack",
+      "type": "Article",
+      "title": "Fearing 2nd Wave, N.Y.C. Will Adopt Restrictions in Hard-Hit Areas",
+      "abstract": "\u201cToday, unfortunately, is not a day for celebration,\u201d the mayor said of rising virus rates. His plan would affect 20 neighborhoods in Brooklyn and Queens.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Quarantines",
+        "Education (K-12)",
+        "Disease Rates"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "de Blasio, Bill"
+      ],
+      "geo_facet": [
+        "New York City",
+        "Brooklyn (NYC)",
+        "Queens (NYC)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e227d668-98e2-5880-9f14-33e4c54b5303",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/trump-virus.html",
+      "id": 100000007377411,
+      "asset_id": 100000007377411,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 15:44:45",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);United States Politics and Government;Presidential Election of 2020;Dexamethasone (Drug);Remdesivir (Drug);Contact Tracing (Public Health);Trump, Donald J;Conley, Sean Patrick",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "As Trump Seeks to Project Strength, Doctors Disclose Alarming Episodes",
+      "abstract": "The president made a surprise outing from his hospital bed in an effort to show his improvement, but the murky and shifting narrative of his illness was rewritten again with grim new details.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Dexamethasone (Drug)",
+        "Remdesivir (Drug)",
+        "Contact Tracing (Public Health)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump briefly left Walter Reed National Military Medical Center on Sunday to greet supporters.",
+          "copyright": "Alex Edelman/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/us/04dc-virus-trump-window/05AMBRIEFING-virus-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3bbfb3e9-88d2-51c5-8294-63a7931fc6e9",
+      "url": "https://www.nytimes.com/2020/10/04/world/europe/belgium-racism-sanda-dia.html",
+      "id": 100000007343687,
+      "asset_id": 100000007343687,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 10:14:00",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Hazing;Fraternities and Sororities;Black People;Immigration and Emigration;Discrimination;Race and Ethnicity;Right-Wing Extremism and Alt-Right;Murders, Attempted Murders and Homicides;Dia, Sanda (d 2018);Reuzegom;Catholic University of Leuven;Flanders (Belgium);Belgium",
+      "column": null,
+      "byline": "By Matt Apuzzo and Steven Erlanger",
+      "type": "Article",
+      "title": "A Black Belgian Student Saw a White Fraternity as His Ticket. It Was His Death.",
+      "abstract": "Sanda Dia\u2019s death after an initiation ritual was regarded as a tragic accident. Newly released videos and photos have made it a symbol of growing intolerance.",
+      "des_facet": [
+        "Hazing",
+        "Fraternities and Sororities",
+        "Black People",
+        "Immigration and Emigration",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Right-Wing Extremism and Alt-Right",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Reuzegom",
+        "Catholic University of Leuven"
+      ],
+      "per_facet": [
+        "Dia, Sanda (d 2018)"
+      ],
+      "geo_facet": [
+        "Flanders (Belgium)",
+        "Belgium"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sanda Dia in a family photo. Joining the almost all-white club, he told his brother, meant that &ldquo;when you leave school they will trust you a lot faster.&rdquo;",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/world/04hazingdeath-p1/00hazingdeath-sanda-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/world/04hazingdeath-p1/00hazingdeath-sanda-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/world/04hazingdeath-p1/00hazingdeath-sanda-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c119ae68-9a29-51ae-a1bd-34ab6b63f8eb",
+      "url": "https://www.nytimes.com/2020/10/05/us/covid-college-death-chad-dorrill.html",
+      "id": 100000007376918,
+      "asset_id": 100000007376918,
+      "source": "New York Times",
+      "published_date": "2020-10-05",
+      "updated": "2020-10-05 20:19:25",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Reopenings;Colleges and Universities;Deaths (Fatalities);Dorrill, Chad (d 2020);Appalachian State University;University of North Carolina;Boone (NC)",
+      "column": null,
+      "byline": "By Cristina Bolling and Shawn Hubler",
+      "type": "Article",
+      "title": "A Student Dies, and a Campus Gets Serious About Coronavirus",
+      "abstract": "Cases are spiking at Appalachian State in North Carolina, causing many students and faculty members to call for stronger safety measures.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Colleges and Universities",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Appalachian State University",
+        "University of North Carolina"
+      ],
+      "per_facet": [
+        "Dorrill, Chad (d 2020)"
+      ],
+      "geo_facet": [
+        "Boone (NC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Appalachian State University campus in Boone, N.C., was quiet on Sunday.",
+          "copyright": "Mike Belleme for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04virus-college-deat-1/04virus-college-deat-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04virus-college-deat-1/04virus-college-deat-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04virus-college-deat-1/04virus-college-deat-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ed73ae0a-5b57-5c39-aa13-7b8f458695bf",
+      "url": "https://www.nytimes.com/2020/10/04/health/trump-covid-treatment.html",
+      "id": 100000007377155,
+      "asset_id": 100000007377155,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 06:51:16",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Trump Coronavirus Positive Result;Dexamethasone (Drug);Remdesivir (Drug);Coronavirus (2019-nCoV);Presidential Election of 2020;your-feed-science;United States Politics and Government;Trump, Donald J;Regeneron Pharmaceuticals Inc;Reed, Walter, National Military Medical Center",
+      "column": null,
+      "byline": "By Katie Thomas and Roni Caryn Rabin",
+      "type": "Article",
+      "title": "Use of Dexamethasone to Treat Trump Suggests Severe Covid-19, Experts Say",
+      "abstract": "Many of the measures cited by his doctors are reserved for patients severely affected by the coronavirus.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Dexamethasone (Drug)",
+        "Remdesivir (Drug)",
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "your-feed-science",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Regeneron Pharmaceuticals Inc",
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump arrived on Friday at Walter Reed National Military Medical Center in Bethesda, Md., for treatment of Covid-19.\u00a0",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/science/04virus-trump-treatment/04virus-trump-treatment-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/science/04virus-trump-treatment/04virus-trump-treatment-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/science/04virus-trump-treatment/04virus-trump-treatment-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c90f49b-089a-5e75-9746-8ccfdfe018d1",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/melania-trump-tapes.html",
+      "id": 100000007373819,
+      "asset_id": 100000007373819,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:49:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "First Ladies (US);Audio Recordings, Downloads and Streaming;Family Separation Policy (US Immigration);Illegal Immigration;Books and Literature;United States Politics and Government;Trump, Melania;Winston Wolkoff, Stephanie;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "In Profane Rant, Melania Trump Takes Aim at Migrant Children and Critics",
+      "abstract": "The audio recording puts the first lady\u2019s frustrations on full display just weeks before President Trump faces the voters in his bid for a second term.",
+      "des_facet": [
+        "First Ladies (US)",
+        "Audio Recordings, Downloads and Streaming",
+        "Family Separation Policy (US Immigration)",
+        "Illegal Immigration",
+        "Books and Literature",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Winston Wolkoff, Stephanie",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first lady, Melania Trump, complained in a recorded conversation in 2018 about having to worry about Christmas decorations.",
+          "copyright": "Kevin Lamarque/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/44be18ff-57cc-565d-b385-a2c50e508b0c",
+      "url": "https://www.nytimes.com/2020/10/05/world/west-wing-outbreak-grows-as-kayleigh-mcenany-tests-positive-for-the-virus.html",
+      "id": 100000007377842,
+      "asset_id": 100000007377842,
+      "source": "New York Times",
+      "published_date": "2020-10-05",
+      "updated": "2020-10-05 19:58:44",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Michael Crowley, Maggie Haberman and Eileen Sullivan",
+      "type": "Article",
+      "title": "West Wing outbreak grows as Kayleigh McEnany tests positive for the virus.",
+      "abstract": "Some of the treatments President Trump is receiving would normally be for a more severe case than the White House has disclosed, outside experts say.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The White House press secretary, Kayleigh McEnany, speaking with the media on Sunday outside the White House.",
+          "copyright": "Jacquelyn Martin/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05virus-briefing-kayleigh2/05virus-briefing-kayleigh2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05virus-briefing-kayleigh2/merlin_178088031_7cc38686-c687-45be-b427-024f7562c804-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/05/multimedia/05virus-briefing-kayleigh2/merlin_178088031_7cc38686-c687-45be-b427-024f7562c804-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/74278bf8-65e6-52a4-9f10-281093e014fd",
+      "url": "https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html",
+      "id": 100000007357478,
+      "asset_id": 100000007357478,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-04 23:11:48",
+      "section": "At Home",
+      "subsection": "",
+      "nytdsection": "at home",
+      "adx_keywords": "Quarantine (Life and Culture);Coronavirus (2019-nCoV);Coronavirus Risks and Safety Concerns;Content Type: Service;Influenza;Tests (Medical);Colds;Masks;Fever;Vaccination and Immunization;Doctors;Centers for Disease Control and Prevention",
+      "column": null,
+      "byline": "By Donald G. McNeil Jr.",
+      "type": "Article",
+      "title": "Identify the Different Symptoms of the Flu and Covid-19",
+      "abstract": "With fears of a \u201ctwindemic\u201d in the United States this fall, here\u2019s a guide to understanding what\u2019s making you feel terrible.",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Influenza",
+        "Tests (Medical)",
+        "Colds",
+        "Masks",
+        "Fever",
+        "Vaccination and Immunization",
+        "Doctors"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luci Guti&eacute;rrez",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7480fdc7-2362-5cbf-81ac-239a36223f4a",
+      "url": "https://www.nytimes.com/2020/10/03/us/elections/attorney-general-barr-will-not-self-quarantine-despite-possible-exposure-to-the-coronavirus.html",
+      "id": 100000007376440,
+      "asset_id": 100000007376440,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-03 17:12:24",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Katie Benner",
+      "type": "Article",
+      "title": "Attorney General Barr will not self-quarantine, despite possible exposure to the coronavirus.",
+      "abstract": "He attended a reception for Amy Coney Barrett, an event where several other attendees later tested positive.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Attorney General William P. Barr and Kellyanne Conway at the White House reception for Supreme Court nominee, Judge Amy Coney Barrett, last Saturday.",
+          "copyright": "Al Drago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03election-briefing-barr/merlin_177974388_b7752031-34ac-49e5-adc1-7a28d83c4b1f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03election-briefing-barr/merlin_177974388_b7752031-34ac-49e5-adc1-7a28d83c4b1f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03election-briefing-barr/merlin_177974388_b7752031-34ac-49e5-adc1-7a28d83c4b1f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6e882b6e-5ec0-5b77-9544-778d53ab82ff",
+      "url": "https://www.nytimes.com/2020/10/03/business/tidjane-thiam-credit-suisse.html",
+      "id": 100000007286284,
+      "asset_id": 100000007286284,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-04 23:11:46",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Banking and Financial Institutions;Black People;Discrimination;Thiam, Tidjane;Credit Suisse Group AG;Switzerland",
+      "column": null,
+      "byline": "By Kate Kelly",
+      "type": "Article",
+      "title": "The Short Tenure and Abrupt Ouster of Banking\u2019s Sole Black C.E.O.",
+      "abstract": "Tidjane Thiam made Credit Suisse profitable again. But the Swiss rejected him as an outsider, and a sudden scandal took him down.",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Black People",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Credit Suisse Group AG"
+      ],
+      "per_facet": [
+        "Thiam, Tidjane"
+      ],
+      "geo_facet": [
+        "Switzerland"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tidjane Thiam",
+          "copyright": "Michael Buholzer/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/business/02THIAM-LEDE-sub/02THIAM-LEDE-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/business/02THIAM-LEDE-sub/02THIAM-LEDE-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/business/02THIAM-LEDE-sub/02THIAM-LEDE-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dddc3ce5-4217-5f9e-8628-9bf5326ea3de",
+      "url": "https://www.nytimes.com/2020/10/03/us/sean-conley-trump-doctor.html",
+      "id": 100000007376458,
+      "asset_id": 100000007376458,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-04 19:54:08",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Coronavirus Positive Result;Hydroxychloroquine (Drug);United States Politics and Government;Coronavirus (2019-nCoV);Conley, Sean Patrick;Trump, Donald J;Jackson, Ronny L;Reed, Walter, National Military Medical Center",
+      "column": null,
+      "byline": "By Allyson Waller and Christina Morales",
+      "type": "Article",
+      "title": "What to Know About Sean Conley, the White House Physician",
+      "abstract": "Dr. Conley, who was appointed as President Trump\u2019s physician in 2018, is a doctor of osteopathic medicine.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Hydroxychloroquine (Drug)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center"
+      ],
+      "per_facet": [
+        "Conley, Sean Patrick",
+        "Trump, Donald J",
+        "Jackson, Ronny L"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Sean P. Conley, President Trump\u2019s physician, has served as an emergency doctor for the U.S. Navy since 2006.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03xp-trump-doctor-pix/03xp-trump-doctor-pix-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4070a7ef-a77e-5ea0-b0c7-728b5b5beba8",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/trump-coronavirus-covid.html",
+      "id": 100000007375228,
+      "asset_id": 100000007375228,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-05 16:33:51",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Reality Bursts the Trumpworld Bubble",
+      "abstract": "In a moment that feels biblical, the implacable virus has come to the president\u2019s door.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/606682ef-52c7-58ef-b8b7-b1774e5ca916",
+      "url": "https://www.nytimes.com/2020/10/04/us/politics/trump-virus-meadows.html",
+      "id": 100000007377238,
+      "asset_id": 100000007377238,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 11:11:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);White House Building (Washington, DC);United States Politics and Government;Workplace Hazards and Violations;Quarantines;Trump, Donald J;Meadows, Mark R (1959- );Farah, Alyssa;McEnany, Kayleigh",
+      "column": null,
+      "byline": "By Annie Karni",
+      "type": "Article",
+      "title": "At the White House, an Eerie Quiet and Frustration With the Chief of Staff",
+      "abstract": "With President Trump hospitalized, Mark Meadows, the White House chief of staff, delivered no guidance to aides about how they were expected to behave in a moment of crisis.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "White House Building (Washington, DC)",
+        "United States Politics and Government",
+        "Workplace Hazards and Violations",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Meadows, Mark R (1959- )",
+        "Farah, Alyssa",
+        "McEnany, Kayleigh"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe\u2019re still not on a clear path to a full recovery,\u201d Mark Meadows, the White House chief of staff, told reporters on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04-dc-virus-memo-meadows02/04-dc-virus-memo-meadows02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04-dc-virus-memo-meadows02/merlin_178003491_05a6a1ed-3de6-446a-8e04-ec0873949f0c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/04-dc-virus-memo-meadows02/merlin_178003491_05a6a1ed-3de6-446a-8e04-ec0873949f0c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6ce9bb8e-8eb0-5037-8fde-1e8b52e67c32",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html",
+      "id": 100000007370672,
+      "asset_id": 100000007370672,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 08:16:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rumors and Misinformation;Coronavirus (2019-nCoV);Research;United States Politics and Government;Conspiracy Theories;Trump, Donald J;Fauci, Anthony S;Cornell University",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Noah Weiland",
+      "type": "Article",
+      "title": "Study Finds \u2018Single Largest Driver\u2019 of Coronavirus Misinformation: Trump",
+      "abstract": "Cornell University researchers analyzing 38 million English-language articles about the pandemic found that President Trump was the largest driver of the \u201cinfodemic.\u201d",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Coronavirus (2019-nCoV)",
+        "Research",
+        "United States Politics and Government",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Cornell University"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Fauci, Anthony S"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mentions of President Trump made up nearly 38 percent of the overall online \u201cmisinformation conversation\u201d about the virus, researchers said.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/30dc-virus-disinformation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c1fda627-3a56-5e5a-8455-2112f4801dc8",
+      "url": "https://www.nytimes.com/2020/10/04/us/elections/mcconnell-says-senate-wont-meet-as-planned-after-a-third-senator-tests-positive.html",
+      "id": 100000007376972,
+      "asset_id": 100000007376972,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-04 15:12:06",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Catie Edmondson, Maggie Haberman, Nicholas Fandos and Lisa Lerer",
+      "type": "Article",
+      "title": "McConnell says Senate won\u2019t meet as planned after a third senator tests positive.",
+      "abstract": "Mitch McConnell says Senate won\u2019t meet as planned after a third senator tests positive.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": " \u201cThe Senate\u2019s floor schedule will not interrupt the thorough, fair and historically supported confirmation process previously laid out,\u201d\u00a0Senator Mitch McConnell said on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03elections-briefing-mitch/merlin_177918396_052f8ad3-7fc3-4630-9d85-ff56b090b05b-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03elections-briefing-mitch/merlin_177918396_052f8ad3-7fc3-4630-9d85-ff56b090b05b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/business/03elections-briefing-mitch/merlin_177918396_052f8ad3-7fc3-4630-9d85-ff56b090b05b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c23645d0-b1af-5815-82c9-9a4695e8a8d2",
+      "url": "https://www.nytimes.com/2020/10/05/business/clorox-disinfecting-wipes-pandemic.html",
+      "id": 100000007357692,
+      "asset_id": 100000007357692,
+      "source": "New York Times",
+      "published_date": "2020-10-05",
+      "updated": "2020-10-05 17:48:20",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Quarantine (Life and Culture);Cleansers, Detergents and Soaps;Shopping and Retail;Supermarkets and Grocery Stores;Clorox Company",
+      "column": null,
+      "byline": "By Julie Creswell",
+      "type": "Article",
+      "title": "\u2018I Had Lost All Hope\u2019: Clorox Wipes Are Still the Hard-to-Find Pandemic Item",
+      "abstract": "For some on social media, finding the cleaning product has become like winning the lottery.",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Cleansers, Detergents and Soaps",
+        "Shopping and Retail",
+        "Supermarkets and Grocery Stores"
+      ],
+      "org_facet": [
+        "Clorox Company"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 20:13:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bfae22db-a7c0-5b37-8ea0-1d88f94a9dc8",
+      "url": "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.html",
+      "id": 100000007376666,
+      "asset_id": 100000007376666,
+      "source": "New York Times",
+      "published_date": "2020-10-05",
+      "updated": "2020-10-05 16:04:49",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Debates (Political);Vice Presidents and Vice Presidency (US);Biden, Joseph R Jr;Harris, Kamala D;Pence, Mike;Trump, Donald J",
+      "column": null,
+      "byline": "By Adam Nagourney and Shane Goldmacher",
+      "type": "Article",
+      "title": "The Pence-Harris V.P. Debate Now Has Big Consequences",
+      "abstract": "Vice-presidential debates can often be afterthoughts in a presidential race. But with President Trump in the hospital, Mike Pence and Kamala Harris will now face an unusual amount of scrutiny, and a tricky balancing act.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Debates (Political)",
+        "Vice Presidents and Vice Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Pence, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence will be under pressure to make the most of Wednesday\u2019s debate against Senator Kamala Harris now that President Trump is sidelined by the virus.\u00a0",
+          "copyright": "Mark Makela for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9d99718f-4aae-5d16-801f-f69361312d48",
+      "url": "https://www.nytimes.com/article/halloween-cdc-guidelines-coronavirus.html",
+      "id": 100000007359236,
+      "asset_id": 100000007359236,
+      "source": "New York Times",
+      "published_date": "2020-10-04",
+      "updated": "2020-10-05 19:09:03",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Halloween;Coronavirus Risks and Safety Concerns;Costumes;Holidays and Special Occasions;Coronavirus (2019-nCoV);Masks;Candy;Ghosts;Haunted Houses;Pumpkins",
+      "column": null,
+      "byline": "By Aimee Ortiz",
+      "type": "Article",
+      "title": "Can Halloween Be Saved? Yes, Experts Say. Here\u2019s How.",
+      "abstract": "You can still safely celebrate the ghoulish season, but trick-or-treating and other celebrations may have to be modified to protect against coronavirus infection.",
+      "des_facet": [
+        "Halloween",
+        "Coronavirus Risks and Safety Concerns",
+        "Costumes",
+        "Holidays and Special Occasions",
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Candy",
+        "Ghosts",
+        "Haunted Houses",
+        "Pumpkins"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "It\u2019s important that children be allowed to enjoy spooky festivities this year because \u201cholidays like Halloween mean a lot to kids,\u201d one expert said.",
+          "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/25xpvirus-halloween/25xpvirus-halloween-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
